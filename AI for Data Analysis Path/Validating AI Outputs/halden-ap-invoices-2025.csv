@@ -1,0 +1,1132 @@
+invoice_id,invoice_date,vendor_name,description,cost_center,amount_usd
+INV-40568,2025-01-01,Bytesmith Consulting Ltd,Migration workshop delivery,ENG,9144.59
+INV-40666,2025-01-01,Brightline Media Ltd,Paid media buying and creative production,MKT,4879.79
+INV-40791,2025-01-01,British Airways Plc,,ENG,804.15
+INV-40921,2025-01-01,Trainline Business,Business travel - rail,SALES,413.55
+INV-40002,2025-01-02,Datadog Inc,Infrastructure monitoring - monthly,ENG,16303.85
+INV-40113,2025-01-02,Intercom Inc,Customer messaging platform - monthly subscription,CS,5345.16
+INV-40248,2025-01-02,PagerDuty Inc,Incident response platform - monthly seats,ENG,2579.27
+INV-41065,2025-01-02,AMZN Mktp US,Marketplace order 114-3824253,OPS,360.04
+INV-40503,2025-01-03,DigitalOcean LLC,Droplet and managed database consumption,ENG,2447.35
+INV-40792,2025-01-03,British Airways Plc,Business travel - flights,OPS,1076.14
+INV-40089,2025-01-04,Gong.io Inc,Revenue intelligence platform - monthly seats,SALES,4173.42
+INV-40922,2025-01-04,Trainline Business,Business travel - rail,SALES,312.34
+INV-40081,2025-01-05,Tableau Software LLC,Tableau Creator and Viewer licenses - quarterly,DATA,19524.60
+INV-40364,2025-01-05,Linear Orbit Inc,Linear Business - monthly seats,ENG,1244.42
+INV-40468,2025-01-05,Cloudflare Inc,"CDN, WAF and DNS services - monthly",ENG,5887.84
+INV-40711,2025-01-05,Vitality Facilities Ltd,Facilities management - monthly service charge,OPS,3196.93
+INV-41037,2025-01-05,Kestrel Business Services Ltd,Quarterly billing as agreed,OPS,65529.32
+INV-40514,2025-01-06,Sierra Digital Ltd,Contract resource - timesheet week 2 (2 FTE),ENG,4789.16
+INV-40723,2025-01-06,Britannia Cleaning Services,Office cleaning contract - monthly,OPS,3146.89
+INV-40152,2025-01-08,Asana Inc,Asana Business - monthly seats,OPS,3884.16
+INV-40564,2025-01-08,Deloitte LLP,Tax advisory engagement - quarterly fee,FIN,41536.82
+INV-40569,2025-01-08,Bytesmith Consulting Ltd,Configuration and rollout support,OPS,9088.41
+INV-40735,2025-01-08,Office Depot UK Ltd,,OPS,968.73
+INV-40859,2025-01-08,Marriott Hotels Ltd,Business travel - accommodation,SALES,768.31
+INV-41033,2025-01-09,Pluralsight LLC,Pluralsight Skills - quarterly licenses,ENG,8401.43
+INV-40586,2025-01-10,Wexford & Blake LLP,Legal fees - commercial contracts,FIN,7143.96
+INV-40793,2025-01-10,British Airways Plc,Business travel - flights,ENG,946.56
+INV-41032,2025-01-10,O'Reilly Media Inc,O'Reilly learning platform - annual subscription,ENG,38000.00
+INV-41061,2025-01-10,Halden Technologies India Pvt Ltd,Intra-group IT recharge - Q1,OPS,19114.76
+INV-40736,2025-01-11,Office Depot UK Ltd,Stationery and office consumables,OPS,737.27
+INV-40033,2025-01-12,Atlassian Pty Ltd,Jira and Confluence Cloud - monthly subscription,ENG,8971.95
+INV-40352,2025-01-12,Lucid Software Inc,Lucidchart Enterprise - monthly seats,ENG,1357.19
+INV-40433,2025-01-12,Amazon Web Services EMEA SARL,AWS consumption - EU region,ENG,13998.51
+INV-40479,2025-01-12,MongoDB Inc,MongoDB Atlas cluster consumption - monthly,ENG,3353.95
+INV-41107,2025-01-12,Microsoft Ireland Operations Ltd,M365 E5 licenses - 420 seats,OPS,17449.63
+INV-41111,2025-01-12,Microsoft Ireland Operations Ltd,Azure consumption - January,ENG,10075.35
+INV-40140,2025-01-13,Segment.io Inc,Customer data platform - monthly subscription,DATA,3160.73
+INV-40212,2025-01-13,LaunchDarkly Inc,Feature flag platform - monthly subscription,ENG,2795.75
+INV-40515,2025-01-13,Sierra Digital Ltd,Contract resource - timesheet week 3 (2 FTE),ENG,6216.94
+INV-40692,2025-01-13,Eventforge Ltd,Conference stand and event production,MKT,4204.97
+INV-40779,2025-01-13,Nespresso Professional,Office coffee supplies - monthly,OPS,1026.75
+INV-40860,2025-01-13,Marriott Hotels Ltd,Business travel - accommodation,SALES,631.54
+INV-40923,2025-01-13,Trainline Business,Business travel - rail,OPS,409.59
+INV-40045,2025-01-14,Fivetran Inc,Managed data pipeline subscription - monthly,DATA,8550.37
+INV-40445,2025-01-14,Google Cloud EMEA Ltd,Google Cloud Platform consumption - BigQuery and GCS,DATA,14251.68
+INV-40861,2025-01-14,Marriott Hotels Ltd,Business travel - accommodation,ENG,818.23
+INV-41028,2025-01-14,Coursera Inc,Coursera for Business - quarterly licenses,HR,13744.87
+INV-40409,2025-01-15,Loom Inc,Loom Business - monthly seats,OPS,1046.05
+INV-40626,2025-01-15,Grant Mercer Audit Ltd,Statutory audit fee - interim,FIN,9313.44
+INV-40794,2025-01-15,British Airways Plc,Business travel - flights,OPS,1095.10
+INV-41017,2025-01-15,Uber for Business,Ground transport - monthly consolidated,SALES,2719.21
+INV-41041,2025-01-15,Northbridge Solutions Ltd,,FIN,8277.81
+INV-41103,2025-01-15,Looker Data Sciences Inc,BI platform licenses - quarterly,DATA,12797.34
+INV-41123,2025-01-15,Microsoft Ireland Operations Ltd,Azure certification training - 12 delegates,ENG,3796.15
+INV-40085,2025-01-16,dbt Labs Inc,dbt Cloud Team plan - quarterly subscription,DATA,15986.52
+INV-40271,2025-01-16,Functional Software Inc,Sentry error monitoring - monthly subscription,ENG,2626.17
+INV-40387,2025-01-16,Hotjar Ltd,Hotjar Scale - monthly subscription,MKT,1121.55
+INV-40491,2025-01-16,Fastly Inc,Edge cloud delivery - monthly consumption,ENG,2904.73
+INV-40654,2025-01-16,Meta Platforms Ireland Ltd,Meta Ads campaign spend - monthly,MKT,7749.39
+INV-40924,2025-01-16,Trainline Business,Business travel - rail,SALES,362.82
+INV-40001,2025-01-17,Salesforce Inc,,SALES,257496.66
+INV-40014,2025-01-17,HubSpot Inc,Marketing Hub Enterprise - quarterly subscription,SALES,32101.14
+INV-40129,2025-01-17,Figma Inc,Figma Organization - monthly editor seats,MKT,5661.06
+INV-40164,2025-01-17,Retool Inc,Internal tooling platform - monthly seats,ENG,2800.97
+INV-40306,2025-01-17,Postman Inc,API platform - monthly seats,ENG,2644.52
+INV-40630,2025-01-17,Google Ireland Ltd,Google Ads spend - monthly,MKT,19201.94
+INV-40029,2025-01-18,Okta Inc,Identity Cloud - workforce identity subscription,OPS,30015.29
+INV-40294,2025-01-18,AgileBits Inc,1Password Business - monthly seats,OPS,2062.10
+INV-40329,2025-01-18,Smartsheet Inc,Smartsheet Business - monthly licenses,OPS,1848.03
+INV-40601,2025-01-18,Hays Specialist Recruitment,Permanent placement fee - Finance Analyst,HR,6677.07
+INV-41053,2025-01-18,Vantage Point Ltd,Annual agreement - ref VPS-88,FIN,9698.49
+INV-40125,2025-01-19,Amplitude Inc,Product analytics subscription - quarterly,DATA,13025.31
+INV-40398,2025-01-19,Calendly LLC,Calendly Teams - monthly seats,SALES,1451.33
+INV-40737,2025-01-19,Office Depot UK Ltd,Stationery and office consumables,OPS,828.25
+INV-40925,2025-01-19,Trainline Business,Business travel - rail,OPS,353.67
+INV-40200,2025-01-20,Outreach Corporation,Sales engagement platform - monthly seats,SALES,2606.88
+INV-40224,2025-01-20,Pendo.io Inc,Product experience platform - monthly subscription,ENG,2727.85
+INV-40236,2025-01-20,Notion Labs Inc,Notion Business - monthly seats,OPS,2898.17
+INV-40516,2025-01-20,Sierra Digital Ltd,Contract resource - timesheet week 4 (2 FTE),ENG,6053.02
+INV-40693,2025-01-20,Eventforge Ltd,Conference stand and event production,MKT,4547.28
+INV-41057,2025-01-20,Ardent Partners LLP,Professional fees,FIN,23051.82
+INV-40421,2025-01-21,Amazon Web Services Inc,"AWS consumption - EC2, S3, RDS",DATA,31964.98
+INV-40317,2025-01-22,Dropbox Inc,Dropbox Business - monthly seats,OPS,1948.85
+INV-40456,2025-01-22,AWS,AWS consumption - additional accounts,ENG,8662.67
+INV-40926,2025-01-22,Trainline Business,Business travel - rail,SALES,406.36
+INV-40057,2025-01-23,GitHub Inc,GitHub Enterprise Cloud - monthly seats,ENG,7255.57
+INV-40188,2025-01-23,Miro (RealtimeBoard Inc),Miro Business - monthly seats,ENG,3568.58
+INV-40283,2025-01-23,Mixpanel Inc,Product analytics - monthly subscription,DATA,1849.31
+INV-40376,2025-01-23,Typeform SL,Typeform Business - monthly subscription,MKT,1160.35
+INV-40862,2025-01-23,Marriott Hotels Ltd,Business travel - accommodation,SALES,733.80
+INV-40927,2025-01-23,Trainline Business,Business travel - rail,SALES,400.41
+INV-40018,2025-01-24,Adobe Inc,Creative Cloud for teams - monthly licenses,MKT,11132.50
+INV-40069,2025-01-24,Zendesk Inc,Support Suite - monthly subscription,CS,7535.94
+INV-40680,2025-01-24,Semrush Inc,SEO and competitive research subscription,MKT,3014.13
+INV-40863,2025-01-24,Marriott Hotels Ltd,Business travel - accommodation,SALES,607.17
+INV-40260,2025-01-25,Airtable Inc,Airtable Business - monthly seats,OPS,2227.25
+INV-40340,2025-01-25,Webflow Inc,Webflow Enterprise hosting and CMS - monthly,MKT,1579.83
+INV-40642,2025-01-25,LinkedIn Ireland Unlimited,LinkedIn Ads campaign spend - monthly,MKT,8924.25
+INV-40700,2025-01-25,Regus Management Ltd,Office space license fee - monthly,OPS,16691.99
+INV-40795,2025-01-25,British Airways Plc,,OPS,847.69
+INV-40101,2025-01-26,Zoom Video Communications,Zoom One Business - monthly licenses,OPS,4866.82
+INV-40176,2025-01-26,Grafana Labs Inc,Grafana Cloud Pro - monthly subscription,ENG,3304.77
+INV-40796,2025-01-26,British Airways Plc,Business travel - flights,ENG,843.03
+INV-40928,2025-01-26,Trainline Business,Business travel - rail,OPS,411.31
+INV-40517,2025-01-27,Sierra Digital Ltd,Contractor placement - timesheet week 5,ENG,5201.90
+INV-40667,2025-01-27,Brightline Media Ltd,Paid media buying and creative production,MKT,6502.70
+INV-41066,2025-01-27,AMZN Mktp US,Marketplace order 114-9090663,OPS,389.73
+INV-40738,2025-01-28,Office Depot UK Ltd,Stationery and office consumables,OPS,1012.08
+INV-41067,2025-01-28,AMZN Mktp US,Marketplace order 114-4422974,OPS,399.87
+INV-40614,2025-01-29,Talentbridge Ltd,Contingent search fee - Backend Engineer,HR,6514.88
+INV-40864,2025-01-29,Marriott Hotels Ltd,Business travel - accommodation,ENG,718.42
+INV-40046,2025-02-02,Fivetran Inc,Managed data pipeline subscription - monthly,DATA,7301.92
+INV-40070,2025-02-02,Zendesk Inc,Support Suite - monthly subscription,CS,5744.85
+INV-40225,2025-02-03,Pendo.io Inc,Product experience platform - monthly subscription,ENG,2383.41
+INV-40518,2025-02-03,Sierra Digital Ltd,Contractor placement - timesheet week 6,ENG,4923.03
+INV-40388,2025-02-04,Hotjar Ltd,Hotjar Scale - monthly subscription,MKT,1311.87
+INV-40739,2025-02-04,Office Depot UK Ltd,Stationery and office consumables,OPS,740.91
+INV-40780,2025-02-04,Nespresso Professional,Office coffee supplies - monthly,OPS,1144.16
+INV-40668,2025-02-05,Brightline Media Ltd,Paid media buying and creative production,MKT,6195.41
+INV-40724,2025-02-05,Britannia Cleaning Services,Office cleaning contract - monthly,OPS,3236.30
+INV-40003,2025-02-06,Datadog Inc,,ENG,15892.81
+INV-40631,2025-02-06,Google Ireland Ltd,Google Ads spend - monthly,MKT,19763.01
+INV-40114,2025-02-07,Intercom Inc,Customer messaging platform - monthly subscription,CS,5533.72
+INV-40712,2025-02-07,Vitality Facilities Ltd,Facilities management - monthly service charge,OPS,3512.02
+INV-40797,2025-02-07,British Airways Plc,Business travel - flights,OPS,885.17
+INV-40865,2025-02-07,Marriott Hotels Ltd,Business travel - accommodation,SALES,591.31
+INV-40165,2025-02-08,Retool Inc,Internal tooling platform - monthly seats,ENG,4101.11
+INV-40694,2025-02-08,Eventforge Ltd,Conference stand and event production,MKT,4218.60
+INV-40798,2025-02-08,British Airways Plc,Business travel - flights,OPS,747.12
+INV-40261,2025-02-09,Airtable Inc,Airtable Business - monthly seats,OPS,2734.64
+INV-40570,2025-02-09,Bytesmith Consulting Ltd,Configuration and rollout support,OPS,6830.06
+INV-40701,2025-02-09,Regus Management Ltd,Office space license fee - monthly,OPS,17186.31
+INV-40019,2025-02-10,Adobe Inc,Creative Cloud for teams - monthly licenses,MKT,9411.06
+INV-40090,2025-02-10,Gong.io Inc,Revenue intelligence platform - monthly seats,SALES,5052.78
+INV-40130,2025-02-10,Figma Inc,Figma Organization - monthly editor seats,ENG,5431.62
+INV-40141,2025-02-10,Segment.io Inc,Customer data platform - monthly subscription,DATA,3305.92
+INV-40446,2025-02-10,Google Cloud EMEA Ltd,Google Cloud Platform consumption - BigQuery and GCS,DATA,14504.19
+INV-40480,2025-02-10,MongoDB Inc,MongoDB Atlas cluster consumption - monthly,ENG,3771.59
+INV-40519,2025-02-10,Sierra Digital Ltd,Contract resource - timesheet week 7 (2 FTE),ENG,5325.42
+INV-40866,2025-02-10,Marriott Hotels Ltd,Business travel - accommodation,SALES,775.54
+INV-40867,2025-02-10,Marriott Hotels Ltd,Business travel - accommodation,SALES,827.92
+INV-41018,2025-02-10,Uber for Business,Ground transport - monthly consolidated,SALES,2456.28
+INV-40434,2025-02-11,Amazon Web Services EMEA SARL,AWS consumption - EU region,ENG,17233.29
+INV-40504,2025-02-11,DigitalOcean LLC,Droplet and managed database consumption,ENG,2085.22
+INV-40377,2025-02-12,Typeform SL,Typeform Business - monthly subscription,MKT,1273.09
+INV-40399,2025-02-12,Calendly LLC,Calendly Teams - monthly seats,SALES,1444.20
+INV-40587,2025-02-12,Wexford & Blake LLP,Legal fees - commercial contracts,FIN,7158.72
+INV-40740,2025-02-12,Office Depot UK Ltd,Stationery and office consumables,OPS,711.79
+INV-40929,2025-02-12,Trainline Business,Business travel - rail,OPS,314.00
+INV-40422,2025-02-14,Amazon Web Services Inc,"AWS consumption - EC2, S3, RDS",ENG,42312.35
+INV-40643,2025-02-14,LinkedIn Ireland Unlimited,LinkedIn Ads campaign spend - monthly,MKT,11440.41
+INV-40799,2025-02-14,British Airways Plc,Business travel - flights,ENG,905.25
+INV-41068,2025-02-14,AMZN Mktp US,,OPS,401.73
+INV-40034,2025-02-15,Atlassian Pty Ltd,Jira and Confluence Cloud - monthly subscription,ENG,7090.84
+INV-40102,2025-02-15,Zoom Video Communications,Zoom One Business - monthly licenses,OPS,4380.37
+INV-40492,2025-02-15,Fastly Inc,Edge cloud delivery - monthly consumption,ENG,3334.24
+INV-40669,2025-02-15,Brightline Media Ltd,Paid media buying and creative production,MKT,6338.12
+INV-40237,2025-02-16,Notion Labs Inc,Notion Business - monthly seats,OPS,2686.68
+INV-40800,2025-02-16,British Airways Plc,Business travel - flights,SALES,819.25
+INV-41069,2025-02-16,AMZN Mktp US,,OPS,417.27
+INV-41070,2025-02-16,AMZN Mktp US,Marketplace order 114-6707301,OPS,519.05
+INV-41112,2025-02-16,Microsoft Ireland Operations Ltd,Azure consumption - February,ENG,6993.12
+INV-40341,2025-02-17,Webflow Inc,Webflow Enterprise hosting and CMS - monthly,MKT,1557.53
+INV-40520,2025-02-17,Sierra Digital Ltd,Contract resource - timesheet week 8 (2 FTE),ENG,5391.19
+INV-40153,2025-02-18,Asana Inc,Asana Business - monthly seats,OPS,3450.43
+INV-40201,2025-02-18,Outreach Corporation,Sales engagement platform - monthly seats,SALES,2823.69
+INV-40318,2025-02-19,Dropbox Inc,Dropbox Business - monthly seats,OPS,1611.80
+INV-40655,2025-02-19,Meta Platforms Ireland Ltd,Meta Ads campaign spend - monthly,MKT,7187.06
+INV-40695,2025-02-19,Eventforge Ltd,Conference stand and event production,MKT,3981.83
+INV-40930,2025-02-19,Trainline Business,Business travel - rail,OPS,339.31
+INV-40931,2025-02-19,Trainline Business,Business travel - rail,SALES,318.88
+INV-40058,2025-02-20,GitHub Inc,GitHub Enterprise Cloud - monthly seats,ENG,8037.32
+INV-40189,2025-02-20,Miro (RealtimeBoard Inc),Miro Business - monthly seats,ENG,3031.03
+INV-40213,2025-02-20,LaunchDarkly Inc,Feature flag platform - monthly subscription,ENG,2545.06
+INV-40307,2025-02-20,Postman Inc,API platform - monthly seats,ENG,1858.47
+INV-40681,2025-02-20,Semrush Inc,SEO and competitive research subscription,MKT,2867.88
+INV-40741,2025-02-20,Office Depot UK Ltd,Stationery and office consumables,OPS,874.60
+INV-41042,2025-02-20,Northbridge Solutions Ltd,Monthly commitment - tier 3,FIN,8066.89
+INV-40457,2025-02-21,AWS,AWS consumption - additional accounts,ENG,8920.77
+INV-40615,2025-02-21,Talentbridge Ltd,Contingent search fee - Customer Success Manager,HR,5173.73
+INV-40410,2025-02-22,Loom Inc,Loom Business - monthly seats,OPS,1091.16
+INV-40469,2025-02-22,Cloudflare Inc,"CDN, WAF and DNS services - monthly",ENG,5142.60
+INV-40868,2025-02-22,Marriott Hotels Ltd,Business travel - accommodation,ENG,761.04
+INV-40602,2025-02-23,Hays Specialist Recruitment,Permanent placement fee - Customer Success Manager,HR,8478.52
+INV-40742,2025-02-23,Office Depot UK Ltd,Stationery and office consumables,OPS,761.27
+INV-40932,2025-02-23,Trainline Business,Business travel - rail,OPS,301.23
+INV-40933,2025-02-23,Trainline Business,Business travel - rail,OPS,335.74
+INV-40272,2025-02-24,Functional Software Inc,Sentry error monitoring - monthly subscription,ENG,2304.80
+INV-40521,2025-02-24,Sierra Digital Ltd,Contractor placement - timesheet week 9,ENG,5091.63
+INV-41071,2025-02-24,AMZN Mktp US,,OPS,530.76
+INV-40177,2025-02-25,Grafana Labs Inc,Grafana Cloud Pro - monthly subscription,ENG,3270.26
+INV-40330,2025-02-25,Smartsheet Inc,Smartsheet Business - monthly licenses,OPS,2188.66
+INV-40353,2025-02-25,Lucid Software Inc,Lucidchart Enterprise - monthly seats,ENG,1278.49
+INV-40603,2025-02-25,Hays Specialist Recruitment,Permanent placement fee - Product Manager,HR,6817.06
+INV-40743,2025-02-25,Office Depot UK Ltd,Stationery and office consumables,OPS,1023.36
+INV-40249,2025-02-26,PagerDuty Inc,Incident response platform - monthly seats,ENG,2758.16
+INV-40284,2025-02-26,Mixpanel Inc,Product analytics - monthly subscription,DATA,2114.83
+INV-40295,2025-02-26,AgileBits Inc,1Password Business - monthly seats,OPS,1850.81
+INV-40365,2025-02-26,Linear Orbit Inc,Linear Business - monthly seats,ENG,1564.32
+INV-40869,2025-02-27,Marriott Hotels Ltd,Business travel - accommodation,SALES,670.97
+INV-40934,2025-02-27,Trainline Business,Business travel - rail,SALES,373.90
+INV-40588,2025-02-28,Wexford & Blake LLP,Legal fees - employment matter,FIN,7339.11
+INV-40870,2025-02-28,Marriott Hotels Ltd,Business travel - accommodation,SALES,677.09
+INV-40871,2025-02-28,Marriott Hotels Ltd,Business travel - accommodation,ENG,612.46
+INV-40935,2025-03-01,Trainline Business,Business travel - rail,SALES,393.29
+INV-41072,2025-03-01,AMZN Mktp US,,OPS,476.43
+INV-40214,2025-03-02,LaunchDarkly Inc,Feature flag platform - monthly subscription,ENG,2973.50
+INV-40725,2025-03-02,Britannia Cleaning Services,,OPS,4019.67
+INV-40103,2025-03-03,Zoom Video Communications,Zoom One Business - monthly licenses,OPS,3972.61
+INV-40115,2025-03-03,Intercom Inc,Customer messaging platform - monthly subscription,CS,4283.08
+INV-40522,2025-03-03,Sierra Digital Ltd,Contractor placement - timesheet week 10,ENG,6293.19
+INV-40571,2025-03-03,Bytesmith Consulting Ltd,Implementation services - phase 2,OPS,8182.56
+INV-40572,2025-03-03,Bytesmith Consulting Ltd,Migration workshop delivery,OPS,6727.29
+INV-40702,2025-03-03,Regus Management Ltd,,OPS,13291.49
+INV-40713,2025-03-03,Vitality Facilities Ltd,Facilities management - monthly service charge,OPS,3122.74
+INV-40744,2025-03-03,Office Depot UK Ltd,Stationery and office consumables,OPS,768.04
+INV-40801,2025-03-03,British Airways Plc,Business travel - flights,ENG,1055.41
+INV-40802,2025-03-03,British Airways Plc,Business travel - flights,SALES,930.17
+INV-40803,2025-03-05,British Airways Plc,Business travel - flights,OPS,822.83
+INV-41043,2025-03-05,Northbridge Solutions Ltd,Monthly commitment - tier 3,FIN,7010.60
+INV-40166,2025-03-07,Retool Inc,,ENG,3075.03
+INV-40458,2025-03-08,AWS,AWS consumption - additional accounts,ENG,9077.82
+INV-40872,2025-03-08,Marriott Hotels Ltd,Business travel - accommodation,ENG,663.27
+INV-40047,2025-03-09,Fivetran Inc,Managed data pipeline subscription - monthly,DATA,6786.23
+INV-40250,2025-03-09,PagerDuty Inc,Incident response platform - monthly seats,ENG,3032.70
+INV-40378,2025-03-09,Typeform SL,,MKT,1588.61
+INV-40493,2025-03-09,Fastly Inc,Edge cloud delivery - monthly consumption,ENG,2743.69
+INV-40804,2025-03-09,British Airways Plc,Business travel - flights,ENG,953.02
+INV-40873,2025-03-09,Marriott Hotels Ltd,Business travel - accommodation,ENG,814.81
+INV-40936,2025-03-09,Trainline Business,Business travel - rail,SALES,393.70
+INV-40342,2025-03-10,Webflow Inc,Webflow Enterprise hosting and CMS - monthly,MKT,1620.31
+INV-40411,2025-03-10,Loom Inc,Loom Business - monthly seats,OPS,1154.13
+INV-40523,2025-03-10,Sierra Digital Ltd,Contractor placement - timesheet week 11,ENG,6119.32
+INV-40805,2025-03-10,British Airways Plc,Business travel - flights,SALES,770.04
+INV-40937,2025-03-10,Trainline Business,Business travel - rail,SALES,357.07
+INV-40202,2025-03-11,Outreach Corporation,Sales engagement platform - monthly seats,SALES,2994.94
+INV-40366,2025-03-11,Linear Orbit Inc,Linear Business - monthly seats,ENG,1579.13
+INV-40447,2025-03-11,Google Cloud EMEA Ltd,Google Cloud Platform consumption - BigQuery and GCS,DATA,16659.69
+INV-40632,2025-03-11,Google Ireland Ltd,Google Ads spend - monthly,MKT,16271.17
+INV-40682,2025-03-12,Semrush Inc,SEO and competitive research subscription,MKT,2645.13
+INV-41019,2025-03-12,Uber for Business,Ground transport - monthly consolidated,SALES,2585.60
+INV-40004,2025-03-13,Datadog Inc,Infrastructure monitoring - monthly,ENG,11371.26
+INV-40938,2025-03-13,Trainline Business,Business travel - rail,SALES,290.84
+INV-41124,2025-03-13,Microsoft Ireland Operations Ltd,Azure certification training - 12 delegates,ENG,3645.47
+INV-40273,2025-03-14,Functional Software Inc,Sentry error monitoring - monthly subscription,ENG,2469.89
+INV-40505,2025-03-14,DigitalOcean LLC,Droplet and managed database consumption,ENG,2016.83
+INV-40939,2025-03-14,Trainline Business,Business travel - rail,OPS,373.71
+INV-41073,2025-03-14,AMZN Mktp US,,OPS,432.10
+INV-41130,2025-03-14,Amazon Web Services Inc,Credit note - reserved instance adjustment,ENG,-18600.00
+INV-40131,2025-03-15,Figma Inc,Figma Organization - monthly editor seats,ENG,4728.23
+INV-40190,2025-03-15,Miro (RealtimeBoard Inc),Miro Business - monthly seats,ENG,3414.97
+INV-40226,2025-03-15,Pendo.io Inc,Product experience platform - monthly subscription,ENG,2291.11
+INV-40308,2025-03-15,Postman Inc,API platform - monthly seats,ENG,2053.95
+INV-40435,2025-03-15,Amazon Web Services EMEA SARL,AWS consumption - EU region,ENG,13126.40
+INV-40940,2025-03-15,Trainline Business,Business travel - rail,OPS,362.15
+INV-40178,2025-03-16,Grafana Labs Inc,Grafana Cloud Pro - monthly subscription,ENG,3089.04
+INV-40262,2025-03-16,Airtable Inc,Airtable Business - monthly seats,OPS,3008.84
+INV-40481,2025-03-16,MongoDB Inc,MongoDB Atlas cluster consumption - monthly,ENG,3242.99
+INV-40644,2025-03-16,LinkedIn Ireland Unlimited,LinkedIn Ads campaign spend - monthly,MKT,10627.95
+INV-40154,2025-03-17,Asana Inc,Asana Business - monthly seats,OPS,2684.00
+INV-40524,2025-03-17,Sierra Digital Ltd,Contractor placement - timesheet week 12,ENG,4543.44
+INV-40874,2025-03-17,Marriott Hotels Ltd,Business travel - accommodation,ENG,785.98
+INV-40875,2025-03-17,Marriott Hotels Ltd,Business travel - accommodation,ENG,812.95
+INV-40071,2025-03-18,Zendesk Inc,Support Suite - monthly subscription,CS,7140.80
+INV-40354,2025-03-18,Lucid Software Inc,Lucidchart Enterprise - monthly seats,ENG,1555.20
+INV-40941,2025-03-18,Trainline Business,Business travel - rail,OPS,334.08
+INV-40296,2025-03-19,AgileBits Inc,1Password Business - monthly seats,OPS,1882.72
+INV-40942,2025-03-19,Trainline Business,Business travel - rail,OPS,284.61
+INV-40020,2025-03-20,Adobe Inc,Creative Cloud for teams - monthly licenses,MKT,10309.95
+INV-40745,2025-03-20,Office Depot UK Ltd,Stationery and office consumables,OPS,941.29
+INV-40943,2025-03-20,Trainline Business,Business travel - rail,OPS,408.31
+INV-40331,2025-03-21,Smartsheet Inc,Smartsheet Business - monthly licenses,OPS,1754.76
+INV-40944,2025-03-21,Trainline Business,Business travel - rail,SALES,362.12
+INV-40059,2025-03-22,GitHub Inc,GitHub Enterprise Cloud - monthly seats,ENG,6554.15
+INV-40389,2025-03-22,Hotjar Ltd,Hotjar Scale - monthly subscription,MKT,1149.29
+INV-40806,2025-03-22,British Airways Plc,Business travel - flights,SALES,844.27
+INV-40238,2025-03-23,Notion Labs Inc,Notion Business - monthly seats,OPS,2928.16
+INV-40285,2025-03-23,Mixpanel Inc,,DATA,2510.13
+INV-40400,2025-03-23,Calendly LLC,Calendly Teams - monthly seats,SALES,1157.11
+INV-40423,2025-03-23,Amazon Web Services Inc,"AWS consumption - EC2, S3, RDS",DATA,40540.83
+INV-40807,2025-03-23,British Airways Plc,Business travel - flights,ENG,951.39
+INV-40142,2025-03-24,Segment.io Inc,Customer data platform - monthly subscription,DATA,3086.52
+INV-40525,2025-03-24,Sierra Digital Ltd,Contractor placement - timesheet week 13,ENG,5390.75
+INV-40781,2025-03-24,Nespresso Professional,Office coffee supplies - monthly,OPS,1054.96
+INV-40808,2025-03-24,British Airways Plc,Business travel - flights,OPS,1091.24
+INV-40091,2025-03-25,Gong.io Inc,Revenue intelligence platform - monthly seats,SALES,4753.27
+INV-40470,2025-03-25,Cloudflare Inc,"CDN, WAF and DNS services - monthly",ENG,4919.49
+INV-41113,2025-03-25,Microsoft Ireland Operations Ltd,Azure consumption - March,ENG,6876.81
+INV-40035,2025-03-26,Atlassian Pty Ltd,Jira and Confluence Cloud - monthly subscription,ENG,7805.27
+INV-40319,2025-03-26,Dropbox Inc,Dropbox Business - monthly seats,OPS,1777.74
+INV-40656,2025-03-26,Meta Platforms Ireland Ltd,Meta Ads campaign spend - monthly,MKT,8800.61
+INV-40746,2025-03-27,Office Depot UK Ltd,,OPS,879.12
+INV-40809,2025-03-27,British Airways Plc,Business travel - flights,SALES,756.96
+INV-40810,2025-03-29,British Airways Plc,Business travel - flights,OPS,1057.61
+INV-40945,2025-03-30,Trainline Business,Business travel - rail,SALES,289.25
+INV-40526,2025-03-31,Sierra Digital Ltd,Contract resource - timesheet week 14 (2 FTE),ENG,5634.13
+INV-40876,2025-04-01,Marriott Hotels Ltd,Business travel - accommodation,SALES,770.68
+INV-40573,2025-04-02,Bytesmith Consulting Ltd,Implementation services - phase 2,OPS,6417.61
+INV-40703,2025-04-02,Regus Management Ltd,Office space license fee - monthly,OPS,14782.18
+INV-40060,2025-04-03,GitHub Inc,GitHub Enterprise Cloud - monthly seats,ENG,7048.46
+INV-40367,2025-04-03,Linear Orbit Inc,Linear Business - monthly seats,ENG,1665.59
+INV-40616,2025-04-03,Talentbridge Ltd,Contingent search fee - Platform Engineer,HR,4729.63
+INV-40036,2025-04-04,Atlassian Pty Ltd,Jira and Confluence Cloud - monthly subscription,ENG,6866.00
+INV-40286,2025-04-04,Mixpanel Inc,Product analytics - monthly subscription,DATA,2444.70
+INV-40877,2025-04-04,Marriott Hotels Ltd,Business travel - accommodation,SALES,637.29
+INV-41020,2025-04-04,Uber for Business,Ground transport - monthly consolidated,SALES,2833.96
+INV-40167,2025-04-05,Retool Inc,Internal tooling platform - monthly seats,ENG,3741.23
+INV-40191,2025-04-05,Miro (RealtimeBoard Inc),Miro Business - monthly seats,ENG,2485.87
+INV-40309,2025-04-05,Postman Inc,API platform - monthly seats,ENG,2075.20
+INV-40683,2025-04-05,Semrush Inc,SEO and competitive research subscription,MKT,3226.87
+INV-40082,2025-04-06,Tableau Software LLC,Tableau Creator and Viewer licenses - quarterly,FIN,14816.34
+INV-40574,2025-04-06,Bytesmith Consulting Ltd,Configuration and rollout support,OPS,8184.65
+INV-40782,2025-04-06,Nespresso Professional,Office coffee supplies - monthly,OPS,936.24
+INV-40878,2025-04-06,Marriott Hotels Ltd,Business travel - accommodation,SALES,670.48
+INV-41074,2025-04-06,AMZN Mktp US,,OPS,484.21
+INV-40116,2025-04-07,Intercom Inc,Customer messaging platform - monthly subscription,CS,4366.18
+INV-40179,2025-04-07,Grafana Labs Inc,Grafana Cloud Pro - monthly subscription,ENG,2761.87
+INV-40379,2025-04-07,Typeform SL,Typeform Business - monthly subscription,MKT,1353.63
+INV-40506,2025-04-07,DigitalOcean LLC,Droplet and managed database consumption,ENG,1832.35
+INV-40527,2025-04-07,Sierra Digital Ltd,Contract resource - timesheet week 15 (2 FTE),ENG,5969.61
+INV-40811,2025-04-07,British Airways Plc,Business travel - flights,ENG,771.14
+INV-40946,2025-04-07,Trainline Business,Business travel - rail,SALES,412.10
+INV-40947,2025-04-07,Trainline Business,Business travel - rail,SALES,382.33
+INV-41029,2025-04-07,Coursera Inc,Coursera for Business - quarterly licenses,HR,10184.48
+INV-40812,2025-04-09,British Airways Plc,Business travel - flights,XXX,829.93
+INV-40813,2025-04-09,British Airways Plc,Business travel - flights,SALES,934.86
+INV-41038,2025-04-09,Kestrel Business Services Ltd,Quarterly billing as agreed,FIN,76074.43
+INV-40448,2025-04-10,Google Cloud EMEA Ltd,Google Cloud Platform consumption - BigQuery and GCS,DATA,17984.35
+INV-40726,2025-04-11,Britannia Cleaning Services,Office cleaning contract - monthly,OPS,3462.51
+INV-40948,2025-04-11,Trainline Business,Business travel - rail,OPS,289.33
+INV-40459,2025-04-12,AWS,AWS consumption - additional accounts,ENG,6478.30
+INV-40747,2025-04-12,Office Depot UK Ltd,Stationery and office consumables,OPS,994.13
+INV-41044,2025-04-12,Northbridge Solutions Ltd,Monthly commitment - tier 3,FIN,7921.22
+INV-41114,2025-04-12,Microsoft Ireland Operations Ltd,Azure consumption - April,ENG,8770.25
+INV-40086,2025-04-13,dbt Labs Inc,dbt Cloud Team plan - quarterly subscription,DATA,18643.62
+INV-40565,2025-04-13,Deloitte LLP,Tax advisory engagement - quarterly fee,FIN,48321.38
+INV-40814,2025-04-13,British Airways Plc,Business travel - flights,OPS,857.07
+INV-40030,2025-04-14,Okta Inc,Identity Cloud - workforce identity subscription,ENG,23866.45
+INV-40436,2025-04-14,Amazon Web Services EMEA SARL,AWS consumption - EU region,ENG,15162.33
+INV-40528,2025-04-14,Sierra Digital Ltd,Contractor placement - timesheet week 16,ENG,5745.83
+INV-40126,2025-04-15,Amplitude Inc,,DATA,12915.96
+INV-40215,2025-04-15,LaunchDarkly Inc,Feature flag platform - monthly subscription,ENG,3512.34
+INV-40263,2025-04-15,Airtable Inc,Airtable Business - monthly seats,OPS,2742.00
+INV-40401,2025-04-15,Calendly LLC,Calendly Teams - monthly seats,SALES,1101.87
+INV-40575,2025-04-15,Bytesmith Consulting Ltd,,OPS,7506.55
+INV-41054,2025-04-15,Vantage Point Ltd,Annual agreement - ref VPS-88,FIN,9486.53
+INV-41058,2025-04-15,Ardent Partners LLP,Professional fees,FIN,22782.82
+INV-40132,2025-04-16,Figma Inc,Figma Organization - monthly editor seats,MKT,4770.81
+INV-40203,2025-04-16,Outreach Corporation,Sales engagement platform - monthly seats,SALES,3427.02
+INV-40627,2025-04-16,Grant Mercer Audit Ltd,Statutory audit fee - interim,FIN,11585.37
+INV-40633,2025-04-16,Google Ireland Ltd,Google Ads spend - monthly,MKT,17635.01
+INV-41108,2025-04-16,Microsoft Ireland Operations Ltd,M365 E5 licenses - 420 seats,OPS,15247.76
+INV-40072,2025-04-17,Zendesk Inc,Support Suite - monthly subscription,CS,7906.92
+INV-40227,2025-04-17,Pendo.io Inc,,ENG,2854.38
+INV-40251,2025-04-17,PagerDuty Inc,Incident response platform - monthly seats,ENG,2389.82
+INV-40748,2025-04-17,Office Depot UK Ltd,Stationery and office consumables,OPS,987.32
+INV-41034,2025-04-17,Pluralsight LLC,Pluralsight Skills - quarterly licenses,ENG,7661.78
+INV-41075,2025-04-17,AMZN Mktp US,Marketplace order 114-1265123,OPS,409.55
+INV-40021,2025-04-18,Adobe Inc,Creative Cloud for teams - monthly licenses,MKT,9910.30
+INV-40143,2025-04-18,Segment.io Inc,Customer data platform - monthly subscription,DATA,3191.90
+INV-40274,2025-04-18,Functional Software Inc,Sentry error monitoring - monthly subscription,ENG,2417.17
+INV-40645,2025-04-18,LinkedIn Ireland Unlimited,LinkedIn Ads campaign spend - monthly,MKT,10586.63
+INV-40815,2025-04-18,British Airways Plc,Business travel - flights,OPS,935.97
+INV-40949,2025-04-18,Trainline Business,Business travel - rail,OPS,411.74
+INV-41104,2025-04-18,Looker Data Sciences Inc,BI platform licenses - quarterly,DATA,11178.08
+INV-40005,2025-04-19,Datadog Inc,Infrastructure monitoring - monthly,XXX,15322.91
+INV-40015,2025-04-19,HubSpot Inc,Marketing Hub Enterprise - quarterly subscription,SALES,30114.95
+INV-40092,2025-04-19,Gong.io Inc,,SALES,4419.11
+INV-41062,2025-04-19,Halden Technologies India Pvt Ltd,Group services recharge,OPS,18632.32
+INV-40048,2025-04-20,Fivetran Inc,Managed data pipeline subscription - monthly,DATA,8476.01
+INV-40494,2025-04-20,Fastly Inc,Edge cloud delivery - monthly consumption,ENG,3794.00
+INV-40816,2025-04-20,British Airways Plc,Business travel - flights,ENG,1017.32
+INV-40529,2025-04-21,Sierra Digital Ltd,Contract resource - timesheet week 17 (2 FTE),ENG,5289.62
+INV-40617,2025-04-21,Talentbridge Ltd,Contingent search fee - Senior Data Engineer,HR,5249.04
+INV-40657,2025-04-21,Meta Platforms Ireland Ltd,Meta Ads campaign spend - monthly,MKT,8390.61
+INV-40817,2025-04-21,British Airways Plc,Business travel - flights,SALES,955.94
+INV-40879,2025-04-21,Marriott Hotels Ltd,Business travel - accommodation,SALES,817.22
+INV-40104,2025-04-22,Zoom Video Communications,Zoom One Business - monthly licenses,OPS,5034.75
+INV-40239,2025-04-22,Notion Labs Inc,Notion Business - monthly seats,OPS,2434.37
+INV-40343,2025-04-22,Webflow Inc,Webflow Enterprise hosting and CMS - monthly,MKT,1464.69
+INV-40670,2025-04-22,Brightline Media Ltd,Paid media buying and creative production,MKT,4690.59
+INV-40320,2025-04-23,Dropbox Inc,Dropbox Business - monthly seats,OPS,1955.98
+INV-40576,2025-04-23,Bytesmith Consulting Ltd,Implementation services - phase 2,ENG,7830.99
+INV-40818,2025-04-23,British Airways Plc,Business travel - flights,OPS,765.38
+INV-40950,2025-04-23,Trainline Business,Business travel - rail,SALES,328.10
+INV-41076,2025-04-23,AMZN Mktp US,Marketplace order 114-9009693,OPS,416.14
+INV-40155,2025-04-24,Asana Inc,Asana Business - monthly seats,OPS,2855.02
+INV-40297,2025-04-24,AgileBits Inc,1Password Business - monthly seats,OPS,2065.29
+INV-40332,2025-04-24,Smartsheet Inc,Smartsheet Business - monthly licenses,OPS,1958.50
+INV-40714,2025-04-24,Vitality Facilities Ltd,Facilities management - monthly service charge,OPS,4068.75
+INV-40355,2025-04-25,Lucid Software Inc,Lucidchart Enterprise - monthly seats,ENG,1572.86
+INV-40390,2025-04-25,Hotjar Ltd,Hotjar Scale - monthly subscription,MKT,1410.68
+INV-40412,2025-04-25,Loom Inc,Loom Business - monthly seats,OPS,821.76
+INV-40424,2025-04-25,Amazon Web Services Inc,"AWS consumption - EC2, S3, RDS",DATA,45840.95
+INV-40880,2025-04-25,Marriott Hotels Ltd,Business travel - accommodation,ENG,669.36
+INV-40471,2025-04-26,Cloudflare Inc,"CDN, WAF and DNS services - monthly",ENG,6057.89
+INV-40482,2025-04-26,MongoDB Inc,MongoDB Atlas cluster consumption - monthly,ENG,3335.45
+INV-40577,2025-04-27,Bytesmith Consulting Ltd,Configuration and rollout support,OPS,9230.47
+INV-40749,2025-04-27,Office Depot UK Ltd,Stationery and office consumables,OPS,985.70
+INV-40530,2025-04-28,Sierra Digital Ltd,Contractor placement - timesheet week 18,ENG,4504.24
+INV-40951,2025-04-30,Trainline Business,Business travel - rail,XXX,305.48
+INV-40133,2025-05-03,Figma Inc,Figma Organization - monthly editor seats,ENG,6370.04
+INV-40589,2025-05-03,Wexford & Blake LLP,Legal fees - employment matter,FIN,8253.03
+INV-40750,2025-05-03,Office Depot UK Ltd,Stationery and office consumables,OPS,889.84
+INV-40952,2025-05-03,Trainline Business,Business travel - rail,SALES,326.30
+INV-40117,2025-05-04,Intercom Inc,Customer messaging platform - monthly subscription,CS,4079.91
+INV-40413,2025-05-04,Loom Inc,Loom Business - monthly seats,OPS,1000.77
+INV-40751,2025-05-04,Office Depot UK Ltd,,OPS,1018.50
+INV-40953,2025-05-04,Trainline Business,Business travel - rail,SALES,318.86
+INV-40144,2025-05-05,Segment.io Inc,Customer data platform - monthly subscription,DATA,3549.69
+INV-40204,2025-05-05,Outreach Corporation,Sales engagement platform - monthly seats,SALES,3274.38
+INV-40264,2025-05-05,Airtable Inc,,OPS,2111.98
+INV-40298,2025-05-05,AgileBits Inc,1Password Business - monthly seats,OPS,1876.73
+INV-40425,2025-05-05,Amazon Web Services Inc,"AWS consumption - EC2, S3, RDS",DATA,34709.25
+INV-40531,2025-05-05,Sierra Digital Ltd,Contractor placement - timesheet week 19,ENG,5043.00
+INV-40604,2025-05-05,Hays Specialist Recruitment,Permanent placement fee - Account Executive,HR,8816.50
+INV-40618,2025-05-05,Talentbridge Ltd,Contingent search fee - Backend Engineer,HR,6986.75
+INV-40310,2025-05-06,Postman Inc,API platform - monthly seats,ENG,2180.24
+INV-40049,2025-05-07,Fivetran Inc,Managed data pipeline subscription - monthly,DATA,7664.60
+INV-40356,2025-05-07,Lucid Software Inc,Lucidchart Enterprise - monthly seats,ENG,1338.93
+INV-40460,2025-05-07,AWS,AWS consumption - additional accounts,ENG,8752.99
+INV-40507,2025-05-07,DigitalOcean LLC,Droplet and managed database consumption,ENG,2548.88
+INV-40881,2025-05-07,Marriott Hotels Ltd,Business travel - accommodation,SALES,766.16
+INV-41021,2025-05-07,Uber for Business,,SALES,2827.96
+INV-40658,2025-05-08,Meta Platforms Ireland Ltd,Meta Ads campaign spend - monthly,MKT,7491.71
+INV-40037,2025-05-09,Atlassian Pty Ltd,Jira and Confluence Cloud - monthly subscription,ENG,8944.12
+INV-40590,2025-05-09,Wexford & Blake LLP,Legal fees - commercial contracts,FIN,8283.82
+INV-40783,2025-05-09,Nespresso Professional,Office coffee supplies - monthly,OPS,1171.12
+INV-40192,2025-05-11,Miro (RealtimeBoard Inc),Miro Business - monthly seats,ENG,3217.91
+INV-40578,2025-05-11,Bytesmith Consulting Ltd,Configuration and rollout support,OPS,8669.07
+INV-40752,2025-05-11,Office Depot UK Ltd,Stationery and office consumables,OPS,998.25
+INV-40753,2025-05-11,Office Depot UK Ltd,Stationery and office consumables,OPS,855.25
+INV-40006,2025-05-12,Datadog Inc,Infrastructure monitoring - monthly,ENG,11489.37
+INV-40380,2025-05-12,Typeform SL,,MKT,1326.02
+INV-40391,2025-05-12,Hotjar Ltd,Hotjar Scale - monthly subscription,MKT,1049.70
+INV-40532,2025-05-12,Sierra Digital Ltd,,ENG,4459.29
+INV-40483,2025-05-13,MongoDB Inc,MongoDB Atlas cluster consumption - monthly,ENG,4081.03
+INV-40882,2025-05-13,Marriott Hotels Ltd,Business travel - accommodation,SALES,684.80
+INV-40954,2025-05-13,Trainline Business,Business travel - rail,SALES,400.19
+INV-40093,2025-05-14,Gong.io Inc,Revenue intelligence platform - monthly seats,SALES,4600.41
+INV-40619,2025-05-14,Talentbridge Ltd,Contingent search fee - Finance Analyst,HR,6950.81
+INV-40955,2025-05-14,Trainline Business,Business travel - rail,SALES,285.03
+INV-40061,2025-05-15,GitHub Inc,GitHub Enterprise Cloud - monthly seats,ENG,7956.53
+INV-40240,2025-05-15,Notion Labs Inc,Notion Business - monthly seats,OPS,2499.79
+INV-40321,2025-05-16,Dropbox Inc,Dropbox Business - monthly seats,OPS,1661.25
+INV-40646,2025-05-16,LinkedIn Ireland Unlimited,LinkedIn Ads campaign spend - monthly,MKT,8378.40
+INV-40956,2025-05-16,Trainline Business,Business travel - rail,OPS,409.76
+INV-40156,2025-05-17,Asana Inc,Asana Business - monthly seats,OPS,3274.10
+INV-40754,2025-05-17,Office Depot UK Ltd,Stationery and office consumables,OPS,873.36
+INV-40957,2025-05-17,Trainline Business,Business travel - rail,SALES,299.86
+INV-41077,2025-05-17,AMZN Mktp US,,OPS,395.70
+INV-40344,2025-05-18,Webflow Inc,Webflow Enterprise hosting and CMS - monthly,MKT,1616.95
+INV-40437,2025-05-18,Amazon Web Services EMEA SARL,AWS consumption - EU region,ENG,17528.12
+INV-40883,2025-05-18,Marriott Hotels Ltd,Business travel - accommodation,SALES,691.38
+INV-40105,2025-05-19,Zoom Video Communications,Zoom One Business - monthly licenses,OPS,4347.97
+INV-40180,2025-05-19,Grafana Labs Inc,Grafana Cloud Pro - monthly subscription,ENG,3237.91
+INV-40495,2025-05-19,Fastly Inc,Edge cloud delivery - monthly consumption,ENG,2707.24
+INV-40533,2025-05-19,Sierra Digital Ltd,Contractor placement - timesheet week 21,ENG,4961.26
+INV-40591,2025-05-19,Wexford & Blake LLP,Legal fees - commercial contracts,FIN,8877.11
+INV-41045,2025-05-19,Northbridge Solutions Ltd,Monthly agreement - CSA-4471,FIN,6678.05
+INV-40402,2025-05-20,Calendly LLC,Calendly Teams - monthly seats,SALES,974.57
+INV-40449,2025-05-20,Google Cloud EMEA Ltd,Google Cloud Platform consumption - BigQuery and GCS,DATA,14448.38
+INV-40684,2025-05-20,Semrush Inc,SEO and competitive research subscription,MKT,3254.40
+INV-40884,2025-05-20,Marriott Hotels Ltd,Business travel - accommodation,ENG,684.15
+INV-40216,2025-05-21,LaunchDarkly Inc,Feature flag platform - monthly subscription,ENG,3626.95
+INV-40333,2025-05-21,Smartsheet Inc,Smartsheet Business - monthly licenses,OPS,1713.10
+INV-41078,2025-05-21,AMZN Mktp US,Marketplace order 114-9139196,OPS,420.74
+INV-40287,2025-05-22,Mixpanel Inc,Product analytics - monthly subscription,DATA,2104.21
+INV-40819,2025-05-22,British Airways Plc,Business travel - flights,ENG,876.04
+INV-40958,2025-05-22,Trainline Business,Business travel - rail,SALES,347.41
+INV-41128,2025-05-22,Datadog Inc,Credit note - overbilled seats Q1,ENG,-14200.00
+INV-40073,2025-05-23,Zendesk Inc,Support Suite - monthly subscription,CS,7075.64
+INV-40228,2025-05-23,Pendo.io Inc,Product experience platform - monthly subscription,ENG,3013.53
+INV-40368,2025-05-23,Linear Orbit Inc,Linear Business - monthly seats,ENG,1278.03
+INV-40634,2025-05-23,Google Ireland Ltd,Google Ads spend - monthly,MKT,18303.83
+INV-41115,2025-05-23,Microsoft Ireland Operations Ltd,Azure consumption - May,ENG,9627.41
+INV-40252,2025-05-24,PagerDuty Inc,Incident response platform - monthly seats,ENG,2953.29
+INV-40275,2025-05-24,Functional Software Inc,Sentry error monitoring - monthly subscription,ENG,2485.84
+INV-40472,2025-05-24,Cloudflare Inc,"CDN, WAF and DNS services - monthly",ENG,6211.30
+INV-40704,2025-05-24,Regus Management Ltd,Office space license fee - monthly,OPS,17890.24
+INV-40727,2025-05-24,Britannia Cleaning Services,Office cleaning contract - monthly,OPS,4050.72
+INV-40755,2025-05-24,Office Depot UK Ltd,Stationery and office consumables,OPS,812.78
+INV-40022,2025-05-25,Adobe Inc,Creative Cloud for teams - monthly licenses,MKT,8707.37
+INV-40592,2025-05-25,Wexford & Blake LLP,Legal fees - commercial contracts,HR,7949.81
+INV-40593,2025-05-25,Wexford & Blake LLP,Legal fees - employment matter,HR,9137.44
+INV-40715,2025-05-25,Vitality Facilities Ltd,Facilities management - monthly service charge,OPS,3835.63
+INV-40959,2025-05-25,Trainline Business,Business travel - rail,SALES,356.92
+INV-40168,2025-05-26,Retool Inc,Internal tooling platform - monthly seats,ENG,3845.36
+INV-40534,2025-05-26,Sierra Digital Ltd,Contract resource - timesheet week 22 (2 FTE),ENG,4924.82
+INV-40579,2025-05-27,Bytesmith Consulting Ltd,Implementation services - phase 2,ENG,7947.82
+INV-40594,2025-06-01,Wexford & Blake LLP,Legal fees - employment matter,HR,7317.12
+INV-40450,2025-06-02,Google Cloud EMEA Ltd,Google Cloud Platform consumption - BigQuery and GCS,DATA,14849.93
+INV-40535,2025-06-02,Sierra Digital Ltd,Contract resource - timesheet week 23 (2 FTE),ENG,5596.96
+INV-40671,2025-06-02,Brightline Media Ltd,Paid media buying and creative production,MKT,6643.63
+INV-40169,2025-06-03,Retool Inc,Internal tooling platform - monthly seats,ENG,2866.38
+INV-41079,2025-06-03,AMZN Mktp US,Marketplace order 114-7566399,OPS,375.30
+INV-40265,2025-06-04,Airtable Inc,Airtable Business - monthly seats,OPS,2682.06
+INV-40605,2025-06-04,Hays Specialist Recruitment,Permanent placement fee - Analytics Manager,XXX,8677.46
+INV-40820,2025-06-04,British Airways Plc,Business travel - flights,OPS,1023.20
+INV-40062,2025-06-05,GitHub Inc,GitHub Enterprise Cloud - monthly seats,ENG,8117.91
+INV-40635,2025-06-05,Google Ireland Ltd,Google Ads spend - monthly,MKT,17007.81
+INV-40728,2025-06-05,Britannia Cleaning Services,,OPS,2892.71
+INV-40094,2025-06-06,Gong.io Inc,Revenue intelligence platform - monthly seats,SALES,5888.86
+INV-40685,2025-06-06,Semrush Inc,SEO and competitive research subscription,MKT,3055.23
+INV-40885,2025-06-06,Marriott Hotels Ltd,Business travel - accommodation,SALES,629.89
+INV-40357,2025-06-07,Lucid Software Inc,Lucidchart Enterprise - monthly seats,ENG,1169.97
+INV-40960,2025-06-07,Trainline Business,Business travel - rail,OPS,294.52
+INV-41046,2025-06-07,Northbridge Solutions Ltd,Monthly commitment - tier 3,FIN,6083.04
+INV-40345,2025-06-08,Webflow Inc,Webflow Enterprise hosting and CMS - monthly,MKT,1814.34
+INV-40392,2025-06-08,Hotjar Ltd,Hotjar Scale - monthly subscription,MKT,1108.76
+INV-40821,2025-06-08,British Airways Plc,Business travel - flights,ENG,949.15
+INV-40961,2025-06-08,Trainline Business,Business travel - rail,SALES,362.96
+INV-40369,2025-06-09,Linear Orbit Inc,Linear Business - monthly seats,ENG,1313.84
+INV-40473,2025-06-09,Cloudflare Inc,"CDN, WAF and DNS services - monthly",ENG,6639.11
+INV-40536,2025-06-09,Sierra Digital Ltd,Contractor placement - timesheet week 24,ENG,4889.67
+INV-40962,2025-06-09,Trainline Business,Business travel - rail,OPS,414.67
+INV-40508,2025-06-10,DigitalOcean LLC,Droplet and managed database consumption,ENG,2118.65
+INV-40963,2025-06-10,Trainline Business,Business travel - rail,SALES,292.91
+INV-41080,2025-06-10,AMZN Mktp US,Marketplace order 114-6346832,OPS,503.46
+INV-40886,2025-06-12,Marriott Hotels Ltd,Business travel - accommodation,SALES,797.69
+INV-40964,2025-06-12,Trainline Business,Business travel - rail,SALES,353.55
+INV-40887,2025-06-13,Marriott Hotels Ltd,Business travel - accommodation,ENG,622.87
+INV-40784,2025-06-14,Nespresso Professional,Office coffee supplies - monthly,OPS,1059.86
+INV-40822,2025-06-14,British Airways Plc,Business travel - flights,SALES,784.73
+INV-40888,2025-06-14,Marriott Hotels Ltd,Business travel - accommodation,SALES,697.08
+INV-40965,2025-06-14,Trainline Business,Business travel - rail,SALES,320.05
+INV-40461,2025-06-15,AWS,AWS consumption - additional accounts,ENG,8033.48
+INV-40484,2025-06-15,MongoDB Inc,MongoDB Atlas cluster consumption - monthly,ENG,3702.43
+INV-40716,2025-06-15,Vitality Facilities Ltd,Facilities management - monthly service charge,OPS,3552.91
+INV-40966,2025-06-15,Trainline Business,Business travel - rail,SALES,404.67
+INV-40134,2025-06-16,Figma Inc,Figma Organization - monthly editor seats,ENG,6386.37
+INV-40241,2025-06-16,Notion Labs Inc,Notion Business - monthly seats,OPS,2507.34
+INV-40403,2025-06-16,Calendly LLC,Calendly Teams - monthly seats,SALES,1422.33
+INV-40537,2025-06-16,Sierra Digital Ltd,Contract resource - timesheet week 25 (2 FTE),ENG,5727.00
+INV-40659,2025-06-16,Meta Platforms Ireland Ltd,Meta Ads campaign spend - monthly,MKT,6977.49
+INV-40889,2025-06-16,Marriott Hotels Ltd,Business travel - accommodation,ENG,814.82
+INV-40118,2025-06-17,Intercom Inc,Customer messaging platform - monthly subscription,CS,3942.71
+INV-40205,2025-06-17,Outreach Corporation,Sales engagement platform - monthly seats,SALES,2907.94
+INV-40381,2025-06-17,Typeform SL,Typeform Business - monthly subscription,MKT,1693.04
+INV-40438,2025-06-17,Amazon Web Services EMEA SARL,AWS consumption - EU region,ENG,16086.47
+INV-41022,2025-06-17,Uber for Business,Ground transport - monthly consolidated,SALES,2329.78
+INV-40038,2025-06-18,Atlassian Pty Ltd,Jira and Confluence Cloud - monthly subscription,ENG,6747.45
+INV-40334,2025-06-18,Smartsheet Inc,Smartsheet Business - monthly licenses,OPS,1674.18
+INV-40967,2025-06-18,Trainline Business,Business travel - rail,OPS,327.37
+INV-40580,2025-06-19,Bytesmith Consulting Ltd,Implementation services - phase 2,ENG,6327.28
+INV-40890,2025-06-19,Marriott Hotels Ltd,Business travel - accommodation,ENG,702.79
+INV-40891,2025-06-19,Marriott Hotels Ltd,Business travel - accommodation,SALES,661.72
+INV-40322,2025-06-20,Dropbox Inc,Dropbox Business - monthly seats,OPS,1695.81
+INV-40414,2025-06-20,Loom Inc,Loom Business - monthly seats,OPS,811.07
+INV-41081,2025-06-20,AMZN Mktp US,Marketplace order 114-9803421,OPS,482.53
+INV-41082,2025-06-20,AMZN Mktp US,Marketplace order 114-2875188,OPS,511.91
+INV-40106,2025-06-21,Zoom Video Communications,,OPS,5484.36
+INV-41116,2025-06-21,Microsoft Ireland Operations Ltd,Azure consumption - June,ENG,8714.02
+INV-40023,2025-06-22,Adobe Inc,Creative Cloud for teams - monthly licenses,MKT,11400.93
+INV-40311,2025-06-22,Postman Inc,API platform - monthly seats,ENG,1901.37
+INV-40705,2025-06-22,Regus Management Ltd,Office space license fee - monthly,OPS,16969.05
+INV-40181,2025-06-23,Grafana Labs Inc,Grafana Cloud Pro - monthly subscription,ENG,2856.03
+INV-40217,2025-06-23,LaunchDarkly Inc,Feature flag platform - monthly subscription,ENG,2586.22
+INV-40299,2025-06-23,AgileBits Inc,1Password Business - monthly seats,OPS,2370.44
+INV-40426,2025-06-23,Amazon Web Services Inc,"AWS consumption - EC2, S3, RDS",ENG,42833.38
+INV-40496,2025-06-23,Fastly Inc,Edge cloud delivery - monthly consumption,ENG,2728.80
+INV-40538,2025-06-23,Sierra Digital Ltd,Contract resource - timesheet week 26 (2 FTE),ENG,6179.24
+INV-40823,2025-06-23,British Airways Plc,Business travel - flights,SALES,996.68
+INV-41083,2025-06-23,AMZN Mktp US,Marketplace order 114-2691438,OPS,430.87
+INV-40074,2025-06-24,Zendesk Inc,Support Suite - monthly subscription,CS,6245.73
+INV-40157,2025-06-24,Asana Inc,Asana Business - monthly seats,OPS,3706.41
+INV-40229,2025-06-24,Pendo.io Inc,Product experience platform - monthly subscription,ENG,2614.07
+INV-40253,2025-06-24,PagerDuty Inc,Incident response platform - monthly seats,ENG,2192.55
+INV-40276,2025-06-24,Functional Software Inc,Sentry error monitoring - monthly subscription,ENG,2369.57
+INV-40968,2025-06-24,Trainline Business,Business travel - rail,SALES,361.47
+INV-40145,2025-06-25,Segment.io Inc,Customer data platform - monthly subscription,DATA,3642.26
+INV-40193,2025-06-25,Miro (RealtimeBoard Inc),Miro Business - monthly seats,OPS,3148.87
+INV-40647,2025-06-25,LinkedIn Ireland Unlimited,LinkedIn Ads campaign spend - monthly,MKT,11134.36
+INV-40007,2025-06-26,Datadog Inc,Infrastructure monitoring - monthly,DATA,15919.69
+INV-40050,2025-06-26,Fivetran Inc,Managed data pipeline subscription - monthly,DATA,8117.18
+INV-40288,2025-06-26,Mixpanel Inc,Product analytics - monthly subscription,DATA,2551.19
+INV-40892,2025-06-26,Marriott Hotels Ltd,Business travel - accommodation,ENG,818.65
+INV-40595,2025-06-28,Wexford & Blake LLP,Legal fees - commercial contracts,FIN,9729.50
+INV-40672,2025-06-28,Brightline Media Ltd,Paid media buying and creative production,MKT,6515.44
+INV-40893,2025-06-28,Marriott Hotels Ltd,Business travel - accommodation,SALES,737.47
+INV-40969,2025-06-29,Trainline Business,Business travel - rail,SALES,385.40
+INV-40539,2025-06-30,Sierra Digital Ltd,Contract resource - timesheet week 27 (2 FTE),ENG,4303.14
+INV-40673,2025-06-30,Brightline Media Ltd,Paid media buying and creative production,MKT,5334.86
+INV-40970,2025-06-30,Trainline Business,Business travel - rail,OPS,383.78
+INV-40971,2025-07-01,Trainline Business,Business travel - rail,SALES,388.14
+INV-40158,2025-07-02,Asana Inc,Asana Business - monthly seats,OPS,3067.12
+INV-40370,2025-07-02,Linear Orbit Inc,Linear Business - monthly seats,ENG,1647.12
+INV-40824,2025-07-02,British Airways Plc,Business travel - flights,SALES,1018.13
+INV-40075,2025-07-03,Zendesk Inc,Support Suite - monthly subscription,CS,5842.92
+INV-40051,2025-07-04,Fivetran Inc,Managed data pipeline subscription - monthly,DATA,6139.45
+INV-40063,2025-07-04,GitHub Inc,GitHub Enterprise Cloud - monthly seats,ENG,7204.15
+INV-40346,2025-07-04,Webflow Inc,Webflow Enterprise hosting and CMS - monthly,XXX,1484.39
+INV-40170,2025-07-05,Retool Inc,Internal tooling platform - monthly seats,ENG,3115.08
+INV-40497,2025-07-05,Fastly Inc,Edge cloud delivery - monthly consumption,ENG,3067.00
+INV-40717,2025-07-05,Vitality Facilities Ltd,Facilities management - monthly service charge,OPS,3483.21
+INV-40135,2025-07-06,Figma Inc,Figma Organization - monthly editor seats,ENG,4991.00
+INV-40230,2025-07-06,Pendo.io Inc,Product experience platform - monthly subscription,ENG,2273.94
+INV-40566,2025-07-06,Deloitte LLP,Tax advisory engagement - quarterly fee,FIN,53433.52
+INV-41117,2025-07-06,Microsoft Ireland Operations Ltd,Azure consumption - July,ENG,8354.80
+INV-40194,2025-07-07,Miro (RealtimeBoard Inc),Miro Business - monthly seats,OPS,2640.03
+INV-40540,2025-07-07,Sierra Digital Ltd,Contractor placement - timesheet week 28,ENG,6279.75
+INV-40636,2025-07-07,Google Ireland Ltd,Google Ads spend - monthly,MKT,20516.36
+INV-40894,2025-07-07,Marriott Hotels Ltd,Business travel - accommodation,ENG,668.04
+INV-41039,2025-07-07,Kestrel Business Services Ltd,Q3 agreement - schedule B,OPS,65293.58
+INV-40016,2025-07-09,HubSpot Inc,Marketing Hub Enterprise - quarterly subscription,SALES,39440.69
+INV-40083,2025-07-09,Tableau Software LLC,Tableau Creator and Viewer licenses - quarterly,FIN,19532.94
+INV-40289,2025-07-09,Mixpanel Inc,Product analytics - monthly subscription,DATA,2716.58
+INV-40485,2025-07-09,MongoDB Inc,MongoDB Atlas cluster consumption - monthly,ENG,3810.10
+INV-40756,2025-07-09,Office Depot UK Ltd,Stationery and office consumables,OPS,1025.26
+INV-41035,2025-07-09,Pluralsight LLC,Pluralsight Skills - quarterly licenses,ENG,9066.61
+INV-41059,2025-07-09,Ardent Partners LLP,Engagement fee,FIN,19377.75
+INV-41063,2025-07-09,Halden Technologies India Pvt Ltd,Intra-group IT recharge - Q3,OPS,17831.19
+INV-40087,2025-07-10,dbt Labs Inc,dbt Cloud Team plan - quarterly subscription,DATA,15496.07
+INV-40312,2025-07-10,Postman Inc,API platform - monthly seats,ENG,1921.64
+INV-40404,2025-07-11,Calendly LLC,Calendly Teams - monthly seats,SALES,1265.34
+INV-40628,2025-07-11,Grant Mercer Audit Ltd,Statutory audit fee - interim,FIN,10234.27
+INV-40895,2025-07-11,Marriott Hotels Ltd,Business travel - accommodation,ENG,716.36
+INV-40439,2025-07-12,Amazon Web Services EMEA SARL,AWS consumption - EU region,ENG,12690.38
+INV-41125,2025-07-12,Microsoft Ireland Operations Ltd,Azure certification training - 12 delegates,ENG,4225.22
+INV-41127,2025-07-12,Amazon Web Services EMEA SARL,AWS consumption - EU region,ENG,12690.38
+INV-40095,2025-07-13,Gong.io Inc,Revenue intelligence platform - monthly seats,SALES,4491.53
+INV-40119,2025-07-13,Intercom Inc,Customer messaging platform - monthly subscription,CS,3774.09
+INV-40972,2025-07-13,Trainline Business,Business travel - rail,SALES,358.78
+INV-41084,2025-07-13,AMZN Mktp US,,OPS,447.16
+INV-40335,2025-07-14,Smartsheet Inc,Smartsheet Business - monthly licenses,OPS,2063.07
+INV-40509,2025-07-14,DigitalOcean LLC,Droplet and managed database consumption,ENG,2387.86
+INV-40541,2025-07-14,Sierra Digital Ltd,Contractor placement - timesheet week 29,ENG,6311.29
+INV-41109,2025-07-14,Microsoft Ireland Operations Ltd,M365 E5 licenses - 420 seats,OPS,15563.00
+INV-40266,2025-07-15,Airtable Inc,Airtable Business - monthly seats,OPS,2732.29
+INV-40648,2025-07-15,LinkedIn Ireland Unlimited,LinkedIn Ads campaign spend - monthly,MKT,12072.51
+INV-40757,2025-07-15,Office Depot UK Ltd,Stationery and office consumables,OPS,979.69
+INV-41023,2025-07-15,Uber for Business,Ground transport - monthly consolidated,SALES,2305.91
+INV-40323,2025-07-16,Dropbox Inc,Dropbox Business - monthly seats,OPS,1835.93
+INV-40706,2025-07-16,Regus Management Ltd,Office space license fee - monthly,OPS,14565.84
+INV-40825,2025-07-16,British Airways Plc,Business travel - flights,OPS,872.04
+INV-40896,2025-07-16,Marriott Hotels Ltd,,ENG,732.61
+INV-40973,2025-07-16,Trainline Business,Business travel - rail,OPS,366.05
+INV-41030,2025-07-16,Coursera Inc,Coursera for Business - quarterly licenses,HR,11084.45
+INV-41047,2025-07-16,Northbridge Solutions Ltd,Monthly commitment - tier 3,FIN,7420.42
+INV-41105,2025-07-16,Looker Data Sciences Inc,BI platform licenses - quarterly,DATA,9603.98
+INV-40146,2025-07-17,Segment.io Inc,Customer data platform - monthly subscription,DATA,3585.72
+INV-40242,2025-07-17,Notion Labs Inc,Notion Business - monthly seats,OPS,3133.18
+INV-40826,2025-07-17,British Airways Plc,Business travel - flights,OPS,744.66
+INV-40277,2025-07-18,Functional Software Inc,Sentry error monitoring - monthly subscription,ENG,1894.66
+INV-40660,2025-07-18,Meta Platforms Ireland Ltd,Meta Ads campaign spend - monthly,MKT,8960.97
+INV-41055,2025-07-18,Vantage Point Ltd,Annual agreement - ref VPS-88,FIN,10284.23
+INV-40008,2025-07-19,Datadog Inc,Infrastructure monitoring - monthly,DATA,15599.17
+INV-40031,2025-07-19,Okta Inc,Identity Cloud - workforce identity subscription,ENG,28970.70
+INV-40127,2025-07-19,Amplitude Inc,Product analytics subscription - quarterly,DATA,11118.90
+INV-40686,2025-07-19,Semrush Inc,SEO and competitive research subscription,MKT,2510.49
+INV-40300,2025-07-20,AgileBits Inc,1Password Business - monthly seats,OPS,2393.17
+INV-40729,2025-07-20,Britannia Cleaning Services,Office cleaning contract - monthly,OPS,3560.03
+INV-40039,2025-07-21,Atlassian Pty Ltd,Jira and Confluence Cloud - monthly subscription,ENG,8118.84
+INV-40254,2025-07-21,PagerDuty Inc,Incident response platform - monthly seats,ENG,2446.56
+INV-40542,2025-07-21,Sierra Digital Ltd,Contract resource - timesheet week 30 (2 FTE),ENG,6172.50
+INV-40974,2025-07-21,Trainline Business,Business travel - rail,OPS,369.00
+INV-40182,2025-07-22,Grafana Labs Inc,Grafana Cloud Pro - monthly subscription,ENG,3250.55
+INV-40462,2025-07-22,AWS,AWS consumption - additional accounts,ENG,6422.10
+INV-40581,2025-07-22,Bytesmith Consulting Ltd,Migration workshop delivery,OPS,8173.51
+INV-40827,2025-07-22,British Airways Plc,Business travel - flights,OPS,1006.10
+INV-40393,2025-07-23,Hotjar Ltd,Hotjar Scale - monthly subscription,MKT,1230.30
+INV-40415,2025-07-23,Loom Inc,Loom Business - monthly seats,OPS,895.01
+INV-40606,2025-07-23,Hays Specialist Recruitment,Permanent placement fee - Account Executive,HR,7215.36
+INV-40785,2025-07-23,Nespresso Professional,Office coffee supplies - monthly,OPS,981.94
+INV-40975,2025-07-23,Trainline Business,Business travel - rail,SALES,294.64
+INV-40206,2025-07-24,Outreach Corporation,Sales engagement platform - monthly seats,SALES,2660.76
+INV-40382,2025-07-24,Typeform SL,Typeform Business - monthly subscription,MKT,1389.02
+INV-40427,2025-07-24,Amazon Web Services Inc,"AWS consumption - EC2, S3, RDS",DATA,32677.63
+INV-40451,2025-07-24,Google Cloud EMEA Ltd,Google Cloud Platform consumption - BigQuery and GCS,DATA,14601.41
+INV-40828,2025-07-24,British Airways Plc,Business travel - flights,ENG,883.93
+INV-40107,2025-07-25,Zoom Video Communications,Zoom One Business - monthly licenses,OPS,4541.40
+INV-40218,2025-07-25,LaunchDarkly Inc,Feature flag platform - monthly subscription,ENG,2607.24
+INV-40897,2025-07-25,Marriott Hotels Ltd,Business travel - accommodation,SALES,641.16
+INV-41085,2025-07-25,AMZN Mktp US,Marketplace order 114-6835002,OPS,478.46
+INV-40024,2025-07-26,Adobe Inc,Creative Cloud for teams - monthly licenses,MKT,10956.68
+INV-40358,2025-07-26,Lucid Software Inc,Lucidchart Enterprise - monthly seats,ENG,1637.10
+INV-40474,2025-07-26,Cloudflare Inc,"CDN, WAF and DNS services - monthly",ENG,6389.64
+INV-40596,2025-07-26,Wexford & Blake LLP,Legal fees - employment matter,FIN,7913.15
+INV-40543,2025-07-28,Sierra Digital Ltd,Contract resource - timesheet week 31 (2 FTE),ENG,5788.72
+INV-40758,2025-07-28,Office Depot UK Ltd,Stationery and office consumables,OPS,898.69
+INV-40898,2025-07-28,Marriott Hotels Ltd,Business travel - accommodation,ENG,646.37
+INV-40759,2025-07-29,Office Depot UK Ltd,Stationery and office consumables,OPS,893.85
+INV-41086,2025-07-29,AMZN Mktp US,Marketplace order 114-9013387,OPS,372.01
+INV-40976,2025-07-30,Trainline Business,Business travel - rail,SALES,310.73
+INV-40977,2025-07-30,Trainline Business,Business travel - rail,OPS,376.08
+INV-40899,2025-07-31,Marriott Hotels Ltd,Business travel - accommodation,ENG,597.94
+INV-40219,2025-08-02,LaunchDarkly Inc,Feature flag platform - monthly subscription,ENG,2554.00
+INV-40661,2025-08-02,Meta Platforms Ireland Ltd,Meta Ads campaign spend - monthly,MKT,8925.51
+INV-40120,2025-08-03,Intercom Inc,Customer messaging platform - monthly subscription,CS,5349.82
+INV-40428,2025-08-03,Amazon Web Services Inc,"AWS consumption - EC2, S3, RDS",ENG,36750.48
+INV-40649,2025-08-03,LinkedIn Ireland Unlimited,LinkedIn Ads campaign spend - monthly,MKT,9678.21
+INV-40760,2025-08-03,Office Depot UK Ltd,Stationery and office consumables,OPS,870.94
+INV-40544,2025-08-04,Sierra Digital Ltd,Contract resource - timesheet week 32 (2 FTE),ENG,4951.73
+INV-40718,2025-08-04,Vitality Facilities Ltd,,OPS,4074.49
+INV-40730,2025-08-04,Britannia Cleaning Services,Office cleaning contract - monthly,OPS,3223.49
+INV-40829,2025-08-04,British Airways Plc,Business travel - flights,OPS,1016.26
+INV-40136,2025-08-05,Figma Inc,Figma Organization - monthly editor seats,MKT,5065.31
+INV-40416,2025-08-05,Loom Inc,Loom Business - monthly seats,OPS,827.03
+INV-40486,2025-08-05,MongoDB Inc,MongoDB Atlas cluster consumption - monthly,ENG,3468.11
+INV-40761,2025-08-05,Office Depot UK Ltd,Stationery and office consumables,OPS,771.62
+INV-41131,2025-08-05,Regus Management Ltd,Credit note - service charge rebate,OPS,-4800.00
+INV-40171,2025-08-06,Retool Inc,Internal tooling platform - monthly seats,ENG,3987.43
+INV-40463,2025-08-06,AWS,AWS consumption - additional accounts,ENG,8348.35
+INV-40405,2025-08-07,Calendly LLC,Calendly Teams - monthly seats,SALES,1054.57
+INV-40830,2025-08-07,British Airways Plc,Business travel - flights,OPS,792.10
+INV-40978,2025-08-07,Trainline Business,Business travel - rail,SALES,289.56
+INV-41087,2025-08-07,AMZN Mktp US,Marketplace order 114-7542764,OPS,487.12
+INV-40207,2025-08-08,Outreach Corporation,Sales engagement platform - monthly seats,SALES,3178.02
+INV-40231,2025-08-08,Pendo.io Inc,Product experience platform - monthly subscription,ENG,2757.27
+INV-40243,2025-08-08,Notion Labs Inc,Notion Business - monthly seats,OPS,2255.48
+INV-40278,2025-08-08,Functional Software Inc,Sentry error monitoring - monthly subscription,ENG,2426.79
+INV-40371,2025-08-08,Linear Orbit Inc,Linear Business - monthly seats,ENG,1593.56
+INV-40597,2025-08-08,Wexford & Blake LLP,Legal fees - commercial contracts,FIN,10599.07
+INV-40762,2025-08-08,Office Depot UK Ltd,Stationery and office consumables,OPS,771.71
+INV-40831,2025-08-08,British Airways Plc,Business travel - flights,OPS,899.76
+INV-40336,2025-08-09,Smartsheet Inc,Smartsheet Business - monthly licenses,OPS,1945.27
+INV-40607,2025-08-09,Hays Specialist Recruitment,Permanent placement fee - Customer Success Manager,HR,6085.23
+INV-40832,2025-08-09,British Airways Plc,Business travel - flights,SALES,799.45
+INV-40900,2025-08-09,Marriott Hotels Ltd,Business travel - accommodation,ENG,827.75
+INV-40040,2025-08-10,Atlassian Pty Ltd,Jira and Confluence Cloud - monthly subscription,ENG,8493.99
+INV-40763,2025-08-10,Office Depot UK Ltd,Stationery and office consumables,OPS,960.18
+INV-40359,2025-08-11,Lucid Software Inc,Lucidchart Enterprise - monthly seats,ENG,1539.48
+INV-40545,2025-08-11,Sierra Digital Ltd,Contract resource - timesheet week 33 (2 FTE),ENG,4551.97
+INV-40674,2025-08-11,Brightline Media Ltd,Paid media buying and creative production,MKT,6032.09
+INV-40147,2025-08-12,Segment.io Inc,Customer data platform - monthly subscription,DATA,3975.42
+INV-40195,2025-08-12,Miro (RealtimeBoard Inc),Miro Business - monthly seats,ENG,3556.44
+INV-40267,2025-08-13,Airtable Inc,Airtable Business - monthly seats,OPS,2866.92
+INV-40786,2025-08-13,Nespresso Professional,Office coffee supplies - monthly,OPS,807.77
+INV-40833,2025-08-13,British Airways Plc,Business travel - flights,SALES,989.30
+INV-41024,2025-08-13,Uber for Business,Ground transport - monthly consolidated,OPS,2088.34
+INV-41118,2025-08-13,Microsoft Ireland Operations Ltd,Azure consumption - August,ENG,8063.32
+INV-40064,2025-08-14,GitHub Inc,GitHub Enterprise Cloud - monthly seats,XXX,7516.44
+INV-40475,2025-08-14,Cloudflare Inc,"CDN, WAF and DNS services - monthly",ENG,5370.90
+INV-40901,2025-08-14,Marriott Hotels Ltd,Business travel - accommodation,ENG,802.85
+INV-40052,2025-08-15,Fivetran Inc,Managed data pipeline subscription - monthly,DATA,7711.02
+INV-40076,2025-08-15,Zendesk Inc,Support Suite - monthly subscription,CS,6871.27
+INV-40108,2025-08-15,Zoom Video Communications,Zoom One Business - monthly licenses,OPS,4619.03
+INV-40183,2025-08-15,Grafana Labs Inc,,ENG,3093.83
+INV-41088,2025-08-15,AMZN Mktp US,,OPS,375.85
+INV-40498,2025-08-16,Fastly Inc,Edge cloud delivery - monthly consumption,ENG,2664.15
+INV-40637,2025-08-16,Google Ireland Ltd,Google Ads spend - monthly,MKT,21946.59
+INV-40979,2025-08-16,Trainline Business,Business travel - rail,SALES,417.89
+INV-41048,2025-08-16,Northbridge Solutions Ltd,Monthly agreement - CSA-4471,FIN,8581.21
+INV-40159,2025-08-17,Asana Inc,Asana Business - monthly seats,OPS,3424.72
+INV-40510,2025-08-17,DigitalOcean LLC,Droplet and managed database consumption,ENG,1959.01
+INV-41089,2025-08-17,AMZN Mktp US,,OPS,442.39
+INV-41090,2025-08-17,AMZN Mktp US,Marketplace order 114-8312673,OPS,517.30
+INV-40009,2025-08-18,Datadog Inc,Infrastructure monitoring - monthly,XXX,11948.02
+INV-40546,2025-08-18,Sierra Digital Ltd,Contractor placement - timesheet week 34,ENG,4425.51
+INV-40452,2025-08-19,Google Cloud EMEA Ltd,Google Cloud Platform consumption - BigQuery and GCS,DATA,16316.72
+INV-40582,2025-08-19,Bytesmith Consulting Ltd,Implementation services - phase 2,OPS,7305.68
+INV-40980,2025-08-19,Trainline Business,Business travel - rail,OPS,343.30
+INV-40255,2025-08-20,PagerDuty Inc,Incident response platform - monthly seats,ENG,2912.05
+INV-40394,2025-08-20,Hotjar Ltd,Hotjar Scale - monthly subscription,MKT,1317.21
+INV-40440,2025-08-20,Amazon Web Services EMEA SARL,AWS consumption - EU region,ENG,17369.32
+INV-40025,2025-08-21,Adobe Inc,Creative Cloud for teams - monthly licenses,MKT,10492.15
+INV-40096,2025-08-21,Gong.io Inc,Revenue intelligence platform - monthly seats,SALES,5579.24
+INV-40324,2025-08-21,Dropbox Inc,Dropbox Business - monthly seats,OPS,1843.38
+INV-40981,2025-08-21,Trainline Business,Business travel - rail,SALES,315.64
+INV-40687,2025-08-23,Semrush Inc,SEO and competitive research subscription,MKT,2521.62
+INV-40834,2025-08-23,British Airways Plc,Business travel - flights,OPS,825.59
+INV-41091,2025-08-23,AMZN Mktp US,,OPS,475.89
+INV-40383,2025-08-24,Typeform SL,Typeform Business - monthly subscription,MKT,1145.29
+INV-40313,2025-08-25,Postman Inc,API platform - monthly seats,ENG,2225.57
+INV-40547,2025-08-25,Sierra Digital Ltd,Contract resource - timesheet week 35 (2 FTE),ENG,4343.17
+INV-40902,2025-08-25,Marriott Hotels Ltd,Business travel - accommodation,ENG,793.13
+INV-40903,2025-08-25,Marriott Hotels Ltd,Business travel - accommodation,ENG,716.02
+INV-40290,2025-08-26,Mixpanel Inc,Product analytics - monthly subscription,DATA,2124.21
+INV-40301,2025-08-26,AgileBits Inc,1Password Business - monthly seats,OPS,1831.73
+INV-40347,2025-08-26,Webflow Inc,Webflow Enterprise hosting and CMS - monthly,MKT,1674.97
+INV-40707,2025-08-26,Regus Management Ltd,Office space license fee - monthly,OPS,13815.36
+INV-40608,2025-08-27,Hays Specialist Recruitment,Permanent placement fee - Product Manager,HR,7077.77
+INV-40620,2025-08-27,Talentbridge Ltd,Contingent search fee - Customer Success Manager,HR,5570.66
+INV-40835,2025-08-27,British Airways Plc,Business travel - flights,SALES,952.14
+INV-40982,2025-08-27,Trainline Business,Business travel - rail,SALES,287.54
+INV-40675,2025-08-29,Brightline Media Ltd,Paid media buying and creative production,MKT,5111.39
+INV-40836,2025-08-29,British Airways Plc,Business travel - flights,OPS,1088.44
+INV-40983,2025-08-30,Trainline Business,Business travel - rail,SALES,375.37
+INV-40984,2025-08-30,Trainline Business,Business travel - rail,OPS,358.44
+INV-40904,2025-08-31,Marriott Hotels Ltd,Business travel - accommodation,SALES,714.72
+INV-40548,2025-09-01,Sierra Digital Ltd,Contractor placement - timesheet week 36,ENG,5313.16
+INV-40837,2025-09-01,British Airways Plc,Business travel - flights,SALES,1084.55
+INV-40232,2025-09-02,Pendo.io Inc,Product experience platform - monthly subscription,ENG,3235.50
+INV-40268,2025-09-02,Airtable Inc,Airtable Business - monthly seats,OPS,2342.54
+INV-40384,2025-09-02,Typeform SL,Typeform Business - monthly subscription,MKT,1645.15
+INV-40453,2025-09-02,Google Cloud EMEA Ltd,Google Cloud Platform consumption - BigQuery and GCS,DATA,13222.82
+INV-40511,2025-09-02,DigitalOcean LLC,Droplet and managed database consumption,ENG,2098.69
+INV-40731,2025-09-03,Britannia Cleaning Services,Office cleaning contract - monthly,OPS,4255.61
+INV-40708,2025-09-04,Regus Management Ltd,Office space license fee - monthly,OPS,13730.58
+INV-40764,2025-09-04,Office Depot UK Ltd,Stationery and office consumables,OPS,791.18
+INV-40838,2025-09-04,British Airways Plc,Business travel - flights,OPS,833.91
+INV-40441,2025-09-05,Amazon Web Services EMEA SARL,AWS consumption - EU region,ENG,18847.47
+INV-40476,2025-09-05,Cloudflare Inc,"CDN, WAF and DNS services - monthly",ENG,4885.91
+INV-40583,2025-09-05,Bytesmith Consulting Ltd,Migration workshop delivery,ENG,7222.56
+INV-40696,2025-09-05,Eventforge Ltd,Conference stand and event production,MKT,3609.96
+INV-40053,2025-09-06,Fivetran Inc,Managed data pipeline subscription - monthly,DATA,8495.52
+INV-40839,2025-09-06,British Airways Plc,Business travel - flights,ENG,832.19
+INV-40905,2025-09-06,Marriott Hotels Ltd,Business travel - accommodation,ENG,799.06
+INV-40985,2025-09-06,Trainline Business,Business travel - rail,SALES,318.01
+INV-41119,2025-09-06,Microsoft Ireland Operations Ltd,Azure consumption - September,ENG,9154.65
+INV-40026,2025-09-07,Adobe Inc,Creative Cloud for teams - monthly licenses,MKT,9084.46
+INV-40220,2025-09-07,LaunchDarkly Inc,Feature flag platform - monthly subscription,ENG,2783.99
+INV-40302,2025-09-07,AgileBits Inc,1Password Business - monthly seats,OPS,2343.27
+INV-40621,2025-09-07,Talentbridge Ltd,,HR,4737.71
+INV-40622,2025-09-07,Talentbridge Ltd,Contingent search fee - Product Manager,HR,5494.05
+INV-40010,2025-09-08,Datadog Inc,APM and log management - monthly,ENG,15719.86
+INV-40109,2025-09-08,Zoom Video Communications,Zoom One Business - monthly licenses,OPS,4812.29
+INV-40244,2025-09-08,Notion Labs Inc,Notion Business - monthly seats,OPS,2762.44
+INV-40325,2025-09-08,Dropbox Inc,Dropbox Business - monthly seats,OPS,1318.61
+INV-40549,2025-09-08,Sierra Digital Ltd,Contract resource - timesheet week 37 (2 FTE),ENG,5653.91
+INV-40906,2025-09-08,Marriott Hotels Ltd,Business travel - accommodation,SALES,627.48
+INV-40676,2025-09-09,Brightline Media Ltd,Paid media buying and creative production,MKT,5500.28
+INV-40840,2025-09-09,British Airways Plc,Business travel - flights,ENG,1037.61
+INV-40986,2025-09-09,Trainline Business,Business travel - rail,SALES,343.55
+INV-41129,2025-09-09,Zendesk Inc,Credit note - service credit,CS,-6400.00
+INV-40097,2025-09-10,Gong.io Inc,Revenue intelligence platform - monthly seats,SALES,4847.94
+INV-40160,2025-09-10,Asana Inc,Asana Business - monthly seats,OPS,3786.05
+INV-40184,2025-09-10,Grafana Labs Inc,Grafana Cloud Pro - monthly subscription,ENG,2927.76
+INV-40395,2025-09-10,Hotjar Ltd,Hotjar Scale - monthly subscription,MKT,1049.65
+INV-40499,2025-09-10,Fastly Inc,Edge cloud delivery - monthly consumption,ENG,3397.78
+INV-40987,2025-09-11,Trainline Business,Business travel - rail,XXX,322.00
+INV-40417,2025-09-12,Loom Inc,Loom Business - monthly seats,OPS,1126.03
+INV-40688,2025-09-12,Semrush Inc,SEO and competitive research subscription,MKT,2972.16
+INV-40765,2025-09-12,Office Depot UK Ltd,Stationery and office consumables,OPS,721.84
+INV-40907,2025-09-12,Marriott Hotels Ltd,Business travel - accommodation,ENG,696.52
+INV-40172,2025-09-13,Retool Inc,Internal tooling platform - monthly seats,ENG,2771.04
+INV-40988,2025-09-13,Trainline Business,Business travel - rail,OPS,361.43
+INV-41092,2025-09-13,AMZN Mktp US,Marketplace order 114-1434757,OPS,380.26
+INV-40337,2025-09-14,Smartsheet Inc,Smartsheet Business - monthly licenses,OPS,1920.68
+INV-40121,2025-09-15,Intercom Inc,Customer messaging platform - monthly subscription,CS,4143.47
+INV-40137,2025-09-15,Figma Inc,Figma Organization - monthly editor seats,ENG,5521.51
+INV-40348,2025-09-15,Webflow Inc,Webflow Enterprise hosting and CMS - monthly,MKT,1640.14
+INV-40550,2025-09-15,Sierra Digital Ltd,Contractor placement - timesheet week 38,ENG,4817.55
+INV-40650,2025-09-15,LinkedIn Ireland Unlimited,LinkedIn Ads campaign spend - monthly,MKT,8973.74
+INV-40662,2025-09-15,Meta Platforms Ireland Ltd,Meta Ads campaign spend - monthly,MKT,7999.98
+INV-40256,2025-09-16,PagerDuty Inc,Incident response platform - monthly seats,ENG,2265.43
+INV-40429,2025-09-16,Amazon Web Services Inc,"AWS consumption - EC2, S3, RDS",DATA,40307.61
+INV-41025,2025-09-16,Uber for Business,Ground transport - monthly consolidated,SALES,2630.06
+INV-40148,2025-09-17,Segment.io Inc,Customer data platform - monthly subscription,DATA,3451.99
+INV-40487,2025-09-17,MongoDB Inc,MongoDB Atlas cluster consumption - monthly,ENG,3281.61
+INV-40787,2025-09-17,Nespresso Professional,Office coffee supplies - monthly,OPS,820.95
+INV-40989,2025-09-17,Trainline Business,Business travel - rail,SALES,354.03
+INV-41093,2025-09-17,AMZN Mktp US,,OPS,444.97
+INV-40279,2025-09-18,Functional Software Inc,Sentry error monitoring - monthly subscription,ENG,1962.07
+INV-40372,2025-09-18,Linear Orbit Inc,,ENG,1263.81
+INV-40406,2025-09-18,Calendly LLC,Calendly Teams - monthly seats,SALES,1196.94
+INV-40719,2025-09-18,Vitality Facilities Ltd,Facilities management - monthly service charge,OPS,4115.26
+INV-41094,2025-09-18,AMZN Mktp US,,OPS,383.34
+INV-40291,2025-09-19,Mixpanel Inc,Product analytics - monthly subscription,DATA,2303.18
+INV-40065,2025-09-20,GitHub Inc,GitHub Enterprise Cloud - monthly seats,ENG,5451.13
+INV-40196,2025-09-20,Miro (RealtimeBoard Inc),Miro Business - monthly seats,OPS,2770.43
+INV-40464,2025-09-20,AWS,AWS consumption - additional accounts,ENG,6707.55
+INV-40077,2025-09-21,Zendesk Inc,Support Suite - monthly subscription,XXX,6025.19
+INV-40314,2025-09-21,Postman Inc,API platform - monthly seats,ENG,2239.26
+INV-40638,2025-09-21,Google Ireland Ltd,Google Ads spend - monthly,MKT,17718.08
+INV-41049,2025-09-21,Northbridge Solutions Ltd,,FIN,6441.49
+INV-40208,2025-09-22,Outreach Corporation,Sales engagement platform - monthly seats,SALES,3036.55
+INV-40551,2025-09-22,Sierra Digital Ltd,Contractor placement - timesheet week 39,ENG,6267.16
+INV-40990,2025-09-25,Trainline Business,Business travel - rail,SALES,380.84
+INV-40041,2025-09-26,Atlassian Pty Ltd,Jira and Confluence Cloud - monthly subscription,ENG,8915.80
+INV-40360,2025-09-26,Lucid Software Inc,Lucidchart Enterprise - monthly seats,ENG,1329.05
+INV-40677,2025-09-26,Brightline Media Ltd,Paid media buying and creative production,MKT,6683.58
+INV-40908,2025-09-27,Marriott Hotels Ltd,Business travel - accommodation,SALES,717.70
+INV-40552,2025-09-29,Sierra Digital Ltd,Contract resource - timesheet week 40 (2 FTE),ENG,4532.70
+INV-40991,2025-09-29,Trainline Business,Business travel - rail,OPS,342.98
+INV-40992,2025-09-29,Trainline Business,Business travel - rail,OPS,403.06
+INV-40909,2025-09-30,Marriott Hotels Ltd,Business travel - accommodation,SALES,765.21
+INV-41095,2025-09-30,AMZN Mktp US,,OPS,469.46
+INV-41096,2025-10-01,AMZN Mktp US,,OPS,398.51
+INV-40221,2025-10-02,LaunchDarkly Inc,Feature flag platform - monthly subscription,ENG,3437.40
+INV-40993,2025-10-02,Trainline Business,Business travel - rail,SALES,418.50
+INV-41120,2025-10-03,Microsoft Ireland Operations Ltd,Azure consumption - October,ENG,7937.39
+INV-40663,2025-10-04,Meta Platforms Ireland Ltd,,MKT,8995.92
+INV-40841,2025-10-04,British Airways Plc,Business travel - flights,OPS,843.15
+INV-41097,2025-10-04,AMZN Mktp US,Marketplace order 114-1086645,OPS,395.50
+INV-40161,2025-10-05,Asana Inc,Asana Business - monthly seats,OPS,3667.73
+INV-40197,2025-10-05,Miro (RealtimeBoard Inc),Miro Business - monthly seats,ENG,2684.84
+INV-40280,2025-10-05,Functional Software Inc,Sentry error monitoring - monthly subscription,ENG,1983.53
+INV-40373,2025-10-05,Linear Orbit Inc,Linear Business - monthly seats,ENG,1339.06
+INV-40639,2025-10-05,Google Ireland Ltd,Google Ads spend - monthly,MKT,15202.95
+INV-40732,2025-10-05,Britannia Cleaning Services,Office cleaning contract - monthly,OPS,3875.35
+INV-40842,2025-10-05,British Airways Plc,Business travel - flights,OPS,962.76
+INV-40910,2025-10-05,Marriott Hotels Ltd,Business travel - accommodation,SALES,606.74
+INV-40032,2025-10-06,Okta Inc,Identity Cloud - workforce identity subscription,OPS,24758.10
+INV-40553,2025-10-06,Sierra Digital Ltd,Contractor placement - timesheet week 41,ENG,6352.96
+INV-40994,2025-10-06,Trainline Business,,OPS,369.38
+INV-40066,2025-10-07,GitHub Inc,GitHub Enterprise Cloud - monthly seats,ENG,6056.97
+INV-40720,2025-10-07,Vitality Facilities Ltd,Facilities management - monthly service charge,OPS,3384.81
+INV-41050,2025-10-07,Northbridge Solutions Ltd,Monthly agreement - CSA-4471,FIN,5836.39
+INV-40084,2025-10-08,Tableau Software LLC,Tableau Creator and Viewer licenses - quarterly,FIN,17225.94
+INV-40257,2025-10-08,PagerDuty Inc,Incident response platform - monthly seats,ENG,2884.91
+INV-40629,2025-10-08,Grant Mercer Audit Ltd,Statutory audit fee - interim,FIN,10866.92
+INV-40697,2025-10-08,Eventforge Ltd,Conference stand and event production,MKT,4148.06
+INV-40766,2025-10-08,Office Depot UK Ltd,Stationery and office consumables,OPS,923.17
+INV-40843,2025-10-08,British Airways Plc,Business travel - flights,OPS,737.84
+INV-40598,2025-10-09,Wexford & Blake LLP,Legal fees - commercial contracts,FIN,7334.53
+INV-40767,2025-10-09,Office Depot UK Ltd,Stationery and office consumables,OPS,847.93
+INV-40911,2025-10-09,Marriott Hotels Ltd,Business travel - accommodation,ENG,686.69
+INV-41126,2025-10-09,Microsoft Ireland Operations Ltd,Azure certification training - 12 delegates,ENG,4333.16
+INV-40567,2025-10-10,Deloitte LLP,Tax advisory engagement - quarterly fee,FIN,42708.28
+INV-40709,2025-10-10,Regus Management Ltd,Office space license fee - monthly,OPS,17021.18
+INV-40995,2025-10-10,Trainline Business,Business travel - rail,SALES,387.33
+INV-41026,2025-10-10,Uber for Business,Ground transport - monthly consolidated,OPS,2831.67
+INV-41040,2025-10-10,Kestrel Business Services Ltd,Quarterly billing as agreed,OPS,61102.67
+INV-41064,2025-10-10,Halden Technologies India Pvt Ltd,Intra-group IT recharge - Q4,OPS,18421.73
+INV-40128,2025-10-11,Amplitude Inc,Product analytics subscription - quarterly,DATA,9058.63
+INV-40326,2025-10-11,Dropbox Inc,Dropbox Business - monthly seats,OPS,1722.05
+INV-40599,2025-10-11,Wexford & Blake LLP,Legal fees - employment matter,FIN,8546.80
+INV-40623,2025-10-11,Talentbridge Ltd,Contingent search fee - Backend Engineer,HR,5057.18
+INV-40844,2025-10-11,British Airways Plc,Business travel - flights,ENG,918.35
+INV-40996,2025-10-11,Trainline Business,Business travel - rail,OPS,399.78
+INV-40078,2025-10-12,Zendesk Inc,Support Suite - monthly subscription,CS,7990.01
+INV-40098,2025-10-12,Gong.io Inc,Revenue intelligence platform - monthly seats,SALES,5076.92
+INV-40768,2025-10-12,Office Depot UK Ltd,Stationery and office consumables,OPS,718.94
+INV-40912,2025-10-12,Marriott Hotels Ltd,Business travel - accommodation,ENG,737.52
+INV-40233,2025-10-13,Pendo.io Inc,Product experience platform - monthly subscription,ENG,2614.46
+INV-40292,2025-10-13,Mixpanel Inc,Product analytics - monthly subscription,DATA,1954.93
+INV-40430,2025-10-13,Amazon Web Services Inc,"AWS consumption - EC2, S3, RDS",ENG,42106.16
+INV-40554,2025-10-13,Sierra Digital Ltd,Contractor placement - timesheet week 42,ENG,5177.50
+INV-40149,2025-10-14,Segment.io Inc,Customer data platform - monthly subscription,DATA,3575.63
+INV-40349,2025-10-14,Webflow Inc,Webflow Enterprise hosting and CMS - monthly,MKT,1305.52
+INV-40477,2025-10-14,Cloudflare Inc,"CDN, WAF and DNS services - monthly",ENG,4932.66
+INV-40698,2025-10-14,Eventforge Ltd,Conference stand and event production,MKT,4131.03
+INV-41036,2025-10-14,Pluralsight LLC,Pluralsight Skills - quarterly licenses,ENG,6870.18
+INV-41098,2025-10-14,AMZN Mktp US,Marketplace order 114-2714045,OPS,426.18
+INV-40269,2025-10-15,Airtable Inc,Airtable Business - monthly seats,OPS,2989.73
+INV-40315,2025-10-15,Postman Inc,API platform - monthly seats,ENG,2149.09
+INV-41110,2025-10-15,Microsoft Ireland Operations Ltd,M365 E5 licenses - 420 seats,OPS,19539.61
+INV-40088,2025-10-16,dbt Labs Inc,dbt Cloud Team plan - quarterly subscription,DATA,15208.76
+INV-40396,2025-10-16,Hotjar Ltd,Hotjar Scale - monthly subscription,MKT,1426.36
+INV-41031,2025-10-16,Coursera Inc,Coursera for Business - quarterly licenses,HR,12986.20
+INV-41060,2025-10-16,Ardent Partners LLP,Q4 services,FIN,22787.61
+INV-40017,2025-10-17,HubSpot Inc,Marketing Hub Enterprise - quarterly subscription,MKT,34778.02
+INV-40209,2025-10-17,Outreach Corporation,Sales engagement platform - monthly seats,SALES,3306.63
+INV-40303,2025-10-17,AgileBits Inc,1Password Business - monthly seats,OPS,1983.70
+INV-40689,2025-10-17,Semrush Inc,,MKT,3132.05
+INV-40788,2025-10-17,Nespresso Professional,Office coffee supplies - monthly,OPS,802.25
+INV-40997,2025-10-17,Trainline Business,Business travel - rail,OPS,367.86
+INV-40385,2025-10-18,Typeform SL,Typeform Business - monthly subscription,MKT,1640.05
+INV-40488,2025-10-18,MongoDB Inc,MongoDB Atlas cluster consumption - monthly,ENG,3252.79
+INV-40651,2025-10-18,LinkedIn Ireland Unlimited,LinkedIn Ads campaign spend - monthly,MKT,9692.34
+INV-40454,2025-10-19,Google Cloud EMEA Ltd,Google Cloud Platform consumption - BigQuery and GCS,DATA,18262.79
+INV-40769,2025-10-19,Office Depot UK Ltd,Stationery and office consumables,OPS,824.53
+INV-41106,2025-10-19,Looker Data Sciences Inc,BI platform licenses - quarterly,DATA,12420.60
+INV-40138,2025-10-20,Figma Inc,Figma Organization - monthly editor seats,ENG,6366.59
+INV-40185,2025-10-20,Grafana Labs Inc,Grafana Cloud Pro - monthly subscription,ENG,3073.42
+INV-40555,2025-10-20,Sierra Digital Ltd,Contract resource - timesheet week 43 (2 FTE),ENG,5158.60
+INV-40609,2025-10-20,Hays Specialist Recruitment,Permanent placement fee - Customer Success Manager,HR,6815.94
+INV-40845,2025-10-20,British Airways Plc,Business travel - flights,SALES,902.53
+INV-41056,2025-10-20,Vantage Point Ltd,Annual agreement - ref VPS-88,FIN,10530.75
+INV-40122,2025-10-21,Intercom Inc,Customer messaging platform - monthly subscription,CS,4687.86
+INV-40512,2025-10-21,DigitalOcean LLC,Droplet and managed database consumption,ENG,1714.35
+INV-40584,2025-10-21,Bytesmith Consulting Ltd,Migration workshop delivery,ENG,9222.60
+INV-40600,2025-10-21,Wexford & Blake LLP,Legal fees - commercial contracts,FIN,8416.83
+INV-40846,2025-10-21,British Airways Plc,Business travel - flights,ENG,1006.27
+INV-40847,2025-10-21,British Airways Plc,,OPS,929.22
+INV-40913,2025-10-21,Marriott Hotels Ltd,Business travel - accommodation,ENG,554.07
+INV-40011,2025-10-22,Datadog Inc,,ENG,16153.10
+INV-40407,2025-10-22,Calendly LLC,Calendly Teams - monthly seats,SALES,1245.17
+INV-40848,2025-10-22,British Airways Plc,Business travel - flights,SALES,881.02
+INV-40027,2025-10-23,Adobe Inc,Creative Cloud for teams - monthly licenses,MKT,10560.15
+INV-40173,2025-10-23,Retool Inc,Internal tooling platform - monthly seats,ENG,3923.46
+INV-40245,2025-10-23,Notion Labs Inc,,OPS,3210.42
+INV-40418,2025-10-23,Loom Inc,Loom Business - monthly seats,OPS,954.87
+INV-40042,2025-10-24,Atlassian Pty Ltd,Jira and Confluence Cloud - monthly subscription,ENG,6304.06
+INV-40110,2025-10-24,Zoom Video Communications,Zoom One Business - monthly licenses,OPS,4751.64
+INV-40338,2025-10-24,Smartsheet Inc,Smartsheet Business - monthly licenses,OPS,2188.77
+INV-40442,2025-10-24,Amazon Web Services EMEA SARL,AWS consumption - EU region,ENG,12659.51
+INV-40610,2025-10-24,Hays Specialist Recruitment,Permanent placement fee - Analytics Manager,HR,6926.81
+INV-40914,2025-10-24,Marriott Hotels Ltd,Business travel - accommodation,ENG,644.40
+INV-40915,2025-10-24,Marriott Hotels Ltd,Business travel - accommodation,SALES,559.07
+INV-40998,2025-10-24,Trainline Business,Business travel - rail,OPS,327.20
+INV-40054,2025-10-25,Fivetran Inc,Managed data pipeline subscription - monthly,DATA,6595.23
+INV-40465,2025-10-25,AWS,AWS consumption - additional accounts,ENG,7235.14
+INV-40916,2025-10-25,Marriott Hotels Ltd,Business travel - accommodation,SALES,690.89
+INV-40917,2025-10-25,Marriott Hotels Ltd,Business travel - accommodation,SALES,753.77
+INV-40361,2025-10-26,Lucid Software Inc,Lucidchart Enterprise - monthly seats,ENG,1472.11
+INV-40500,2025-10-26,Fastly Inc,Edge cloud delivery - monthly consumption,ENG,3679.34
+INV-40556,2025-10-27,Sierra Digital Ltd,Contract resource - timesheet week 44 (2 FTE),ENG,6205.13
+INV-40849,2025-10-28,British Airways Plc,Business travel - flights,OPS,902.70
+INV-40770,2025-10-31,Office Depot UK Ltd,Stationery and office consumables,OPS,693.20
+INV-41099,2025-11-01,AMZN Mktp US,,OPS,479.15
+INV-40099,2025-11-02,Gong.io Inc,Revenue intelligence platform - monthly seats,SALES,5685.59
+INV-40123,2025-11-02,Intercom Inc,Customer messaging platform - monthly subscription,CS,3994.91
+INV-40721,2025-11-02,Vitality Facilities Ltd,Facilities management - monthly service charge,OPS,4159.27
+INV-40999,2025-11-02,Trainline Business,Business travel - rail,XXX,377.65
+INV-41027,2025-11-02,Uber for Business,Ground transport - monthly consolidated,OPS,2391.23
+INV-40174,2025-11-03,Retool Inc,Internal tooling platform - monthly seats,ENG,3222.14
+INV-40513,2025-11-03,DigitalOcean LLC,Droplet and managed database consumption,ENG,2190.81
+INV-40557,2025-11-03,Sierra Digital Ltd,Contract resource - timesheet week 45 (2 FTE),ENG,4588.40
+INV-40408,2025-11-04,Calendly LLC,Calendly Teams - monthly seats,SALES,1137.89
+INV-40455,2025-11-04,Google Cloud EMEA Ltd,Google Cloud Platform consumption - BigQuery and GCS,DATA,12898.04
+INV-40699,2025-11-04,Eventforge Ltd,Conference stand and event production,MKT,5158.27
+INV-40850,2025-11-04,British Airways Plc,Business travel - flights,OPS,1082.38
+INV-40851,2025-11-04,British Airways Plc,Business travel - flights,OPS,1024.99
+INV-41000,2025-11-04,Trainline Business,Business travel - rail,SALES,347.30
+INV-40210,2025-11-05,Outreach Corporation,Sales engagement platform - monthly seats,SALES,3246.41
+INV-40478,2025-11-05,Cloudflare Inc,"CDN, WAF and DNS services - monthly",ENG,5562.66
+INV-40771,2025-11-05,Office Depot UK Ltd,Stationery and office consumables,OPS,840.43
+INV-41121,2025-11-05,Microsoft Ireland Operations Ltd,Azure consumption - November,ENG,8219.79
+INV-40374,2025-11-06,Linear Orbit Inc,Linear Business - monthly seats,ENG,1471.13
+INV-40431,2025-11-06,Amazon Web Services Inc,"AWS consumption - EC2, S3, RDS",DATA,44993.49
+INV-40611,2025-11-06,Hays Specialist Recruitment,Permanent placement fee - Backend Engineer,HR,7035.78
+INV-40710,2025-11-06,Regus Management Ltd,Office space license fee - monthly,OPS,12055.78
+INV-41001,2025-11-06,Trainline Business,Business travel - rail,OPS,344.57
+INV-40012,2025-11-08,Datadog Inc,Infrastructure monitoring - monthly,DATA,14043.14
+INV-40397,2025-11-08,Hotjar Ltd,Hotjar Scale - monthly subscription,MKT,1275.95
+INV-40918,2025-11-08,Marriott Hotels Ltd,Business travel - accommodation,ENG,716.22
+INV-40246,2025-11-09,Notion Labs Inc,Notion Business - monthly seats,OPS,2554.76
+INV-40293,2025-11-09,Mixpanel Inc,Product analytics - monthly subscription,DATA,2307.75
+INV-40640,2025-11-09,Google Ireland Ltd,Google Ads spend - monthly,MKT,17995.02
+INV-40772,2025-11-09,Office Depot UK Ltd,Stationery and office consumables,OPS,916.77
+INV-40028,2025-11-10,Adobe Inc,Creative Cloud for teams - monthly licenses,MKT,11409.85
+INV-40316,2025-11-10,Postman Inc,API platform - monthly seats,ENG,1810.09
+INV-40558,2025-11-10,Sierra Digital Ltd,Contract resource - timesheet week 46 (2 FTE),ENG,5217.60
+INV-40678,2025-11-10,Brightline Media Ltd,Paid media buying and creative production,MKT,5658.29
+INV-40773,2025-11-10,Office Depot UK Ltd,Stationery and office consumables,OPS,746.91
+INV-40585,2025-11-11,Bytesmith Consulting Ltd,Configuration and rollout support,OPS,7988.30
+INV-41051,2025-11-11,Northbridge Solutions Ltd,,XXX,7556.28
+INV-40067,2025-11-12,GitHub Inc,GitHub Enterprise Cloud - monthly seats,ENG,7178.73
+INV-40339,2025-11-12,Smartsheet Inc,Smartsheet Business - monthly licenses,OPS,1882.77
+INV-40489,2025-11-12,MongoDB Inc,MongoDB Atlas cluster consumption - monthly,ENG,3229.15
+INV-40690,2025-11-12,Semrush Inc,SEO and competitive research subscription,MKT,2580.33
+INV-41002,2025-11-12,Trainline Business,Business travel - rail,OPS,410.10
+INV-41003,2025-11-12,Trainline Business,Business travel - rail,OPS,378.58
+INV-40139,2025-11-13,Figma Inc,,ENG,6199.20
+INV-40612,2025-11-13,Hays Specialist Recruitment,Permanent placement fee - Analytics Manager,HR,7778.63
+INV-40852,2025-11-13,British Airways Plc,Business travel - flights,OPS,759.81
+INV-40304,2025-11-14,AgileBits Inc,1Password Business - monthly seats,OPS,1959.60
+INV-40664,2025-11-14,Meta Platforms Ireland Ltd,Meta Ads campaign spend - monthly,MKT,6581.49
+INV-40150,2025-11-15,Segment.io Inc,Customer data platform - monthly subscription,DATA,4076.86
+INV-40350,2025-11-15,Webflow Inc,Webflow Enterprise hosting and CMS - monthly,MKT,1817.05
+INV-40443,2025-11-15,Amazon Web Services EMEA SARL,AWS consumption - EU region,ENG,16629.02
+INV-40162,2025-11-16,Asana Inc,Asana Business - monthly seats,OPS,2811.28
+INV-40466,2025-11-16,AWS,AWS consumption - additional accounts,ENG,7351.13
+INV-40501,2025-11-16,Fastly Inc,Edge cloud delivery - monthly consumption,ENG,3833.52
+INV-40774,2025-11-16,Office Depot UK Ltd,Stationery and office consumables,OPS,760.87
+INV-40853,2025-11-16,British Airways Plc,Business travel - flights,ENG,947.54
+INV-41004,2025-11-16,Trainline Business,,OPS,286.43
+INV-41005,2025-11-16,Trainline Business,Business travel - rail,SALES,404.15
+INV-40043,2025-11-17,Atlassian Pty Ltd,Jira and Confluence Cloud - monthly subscription,ENG,6437.67
+INV-40111,2025-11-17,Zoom Video Communications,Zoom One Business - monthly licenses,OPS,5101.12
+INV-40234,2025-11-17,Pendo.io Inc,Product experience platform - monthly subscription,ENG,2585.70
+INV-40386,2025-11-17,Typeform SL,Typeform Business - monthly subscription,MKT,1158.68
+INV-40559,2025-11-17,Sierra Digital Ltd,Contract resource - timesheet week 47 (2 FTE),ENG,4890.31
+INV-40854,2025-11-17,British Airways Plc,Business travel - flights,SALES,756.58
+INV-40198,2025-11-18,Miro (RealtimeBoard Inc),,OPS,2542.52
+INV-40222,2025-11-18,LaunchDarkly Inc,Feature flag platform - monthly subscription,ENG,2671.50
+INV-41006,2025-11-18,Trainline Business,Business travel - rail,SALES,355.67
+INV-40362,2025-11-19,Lucid Software Inc,Lucidchart Enterprise - monthly seats,ENG,1623.96
+INV-40055,2025-11-20,Fivetran Inc,Managed data pipeline subscription - monthly,DATA,6384.13
+INV-40186,2025-11-20,Grafana Labs Inc,Grafana Cloud Pro - monthly subscription,ENG,2917.15
+INV-40679,2025-11-20,Brightline Media Ltd,Paid media buying and creative production,MKT,5913.83
+INV-40327,2025-11-21,Dropbox Inc,Dropbox Business - monthly seats,OPS,1792.93
+INV-40258,2025-11-22,PagerDuty Inc,Incident response platform - monthly seats,ENG,2127.71
+INV-40855,2025-11-22,British Airways Plc,Business travel - flights,SALES,1056.79
+INV-40419,2025-11-23,Loom Inc,Loom Business - monthly seats,OPS,922.02
+INV-40733,2025-11-23,Britannia Cleaning Services,Office cleaning contract - monthly,OPS,3104.18
+INV-40560,2025-11-24,Sierra Digital Ltd,Contract resource - timesheet week 48 (2 FTE),ENG,6323.15
+INV-40079,2025-11-25,Zendesk Inc,Support Suite - monthly subscription,CS,6430.01
+INV-40652,2025-11-25,LinkedIn Ireland Unlimited,LinkedIn Ads campaign spend - monthly,MKT,10476.08
+INV-40270,2025-11-26,Airtable Inc,Airtable Business - monthly seats,OPS,2386.00
+INV-40281,2025-11-26,Functional Software Inc,Sentry error monitoring - monthly subscription,ENG,2165.99
+INV-40789,2025-11-26,Nespresso Professional,Office coffee supplies - monthly,OPS,1093.14
+INV-41007,2025-11-26,Trainline Business,Business travel - rail,OPS,384.18
+INV-40624,2025-11-27,Talentbridge Ltd,Contingent search fee - Backend Engineer,HR,5029.85
+INV-41008,2025-11-27,Trainline Business,Business travel - rail,OPS,326.25
+INV-41009,2025-11-28,Trainline Business,Business travel - rail,SALES,380.47
+INV-40613,2025-11-29,Hays Specialist Recruitment,Permanent placement fee - Account Executive,HR,7597.87
+INV-40856,2025-11-29,British Airways Plc,Business travel - flights,ENG,770.66
+INV-40919,2025-11-29,Marriott Hotels Ltd,Business travel - accommodation,SALES,815.20
+INV-41010,2025-11-29,Trainline Business,Business travel - rail,SALES,420.75
+INV-40625,2025-11-30,Talentbridge Ltd,Contingent search fee - Finance Analyst,HR,6505.71
+INV-40561,2025-12-01,Sierra Digital Ltd,Contractor placement - timesheet week 49,ENG,6049.37
+INV-40775,2025-12-01,Office Depot UK Ltd,,OPS,795.73
+INV-41100,2025-12-01,AMZN Mktp US,Marketplace order 114-4674269,OPS,490.02
+INV-40100,2025-12-02,Gong.io Inc,Revenue intelligence platform - monthly seats,SALES,5001.05
+INV-40665,2025-12-02,Meta Platforms Ireland Ltd,Meta Ads campaign spend - monthly,MKT,7939.26
+INV-40223,2025-12-03,LaunchDarkly Inc,Feature flag platform - monthly subscription,ENG,2495.15
+INV-40691,2025-12-03,Semrush Inc,SEO and competitive research subscription,MKT,2219.71
+INV-40124,2025-12-04,Intercom Inc,Customer messaging platform - monthly subscription,CS,4304.36
+INV-40235,2025-12-04,Pendo.io Inc,Product experience platform - monthly subscription,ENG,3316.27
+INV-40351,2025-12-04,Webflow Inc,Webflow Enterprise hosting and CMS - monthly,MKT,1640.45
+INV-40420,2025-12-04,Loom Inc,Loom Business - monthly seats,OPS,879.80
+INV-40502,2025-12-05,Fastly Inc,Edge cloud delivery - monthly consumption,ENG,3145.51
+INV-40641,2025-12-05,Google Ireland Ltd,Google Ads spend - monthly,MKT,16438.23
+INV-40776,2025-12-05,Office Depot UK Ltd,Stationery and office consumables,XXX,951.54
+INV-40790,2025-12-05,Nespresso Professional,Office coffee supplies - monthly,OPS,1100.86
+INV-40857,2025-12-05,British Airways Plc,Business travel - flights,OPS,852.14
+INV-41011,2025-12-05,Trainline Business,Business travel - rail,SALES,405.69
+INV-41012,2025-12-05,Trainline Business,,SALES,321.39
+INV-40175,2025-12-06,Retool Inc,Internal tooling platform - monthly seats,ENG,2904.72
+INV-40467,2025-12-07,AWS,AWS consumption - additional accounts,ENG,8009.70
+INV-40722,2025-12-07,Vitality Facilities Ltd,Facilities management - monthly service charge,OPS,3693.98
+INV-41122,2025-12-07,Microsoft Ireland Operations Ltd,Azure consumption - December,ENG,9813.09
+INV-40211,2025-12-08,Outreach Corporation,Sales engagement platform - monthly seats,SALES,3047.50
+INV-40562,2025-12-08,Sierra Digital Ltd,Contractor placement - timesheet week 50,ENG,5079.13
+INV-40920,2025-12-08,Marriott Hotels Ltd,Business travel - accommodation,ENG,627.20
+INV-41013,2025-12-08,Trainline Business,Business travel - rail,OPS,285.55
+INV-40080,2025-12-09,Zendesk Inc,Support Suite - monthly subscription,CS,5898.63
+INV-40734,2025-12-09,Britannia Cleaning Services,Office cleaning contract - monthly,OPS,3172.54
+INV-41014,2025-12-09,Trainline Business,Business travel - rail,OPS,364.43
+INV-41101,2025-12-09,AMZN Mktp US,Marketplace order 114-3562295,OPS,453.19
+INV-40151,2025-12-10,Segment.io Inc,Customer data platform - monthly subscription,DATA,3672.93
+INV-40163,2025-12-10,Asana Inc,Asana Business - monthly seats,OPS,3742.93
+INV-40777,2025-12-10,Office Depot UK Ltd,Stationery and office consumables,OPS,797.55
+INV-41015,2025-12-10,Trainline Business,Business travel - rail,OPS,289.82
+INV-41102,2025-12-10,AMZN Mktp US,,OPS,525.85
+INV-41052,2025-12-11,Northbridge Solutions Ltd,Monthly commitment - tier 3,FIN,8126.60
+INV-40375,2025-12-12,Linear Orbit Inc,Linear Business - monthly seats,ENG,1334.54
+INV-40444,2025-12-12,Amazon Web Services EMEA SARL,AWS consumption - EU region,ENG,14669.18
+INV-41016,2025-12-12,Trainline Business,Business travel - rail,SALES,292.91
+INV-40187,2025-12-13,Grafana Labs Inc,Grafana Cloud Pro - monthly subscription,ENG,2728.13
+INV-40259,2025-12-13,PagerDuty Inc,Incident response platform - monthly seats,ENG,2203.42
+INV-40282,2025-12-13,Functional Software Inc,Sentry error monitoring - monthly subscription,ENG,1796.16
+INV-40044,2025-12-14,Atlassian Pty Ltd,Jira and Confluence Cloud - monthly subscription,ENG,7541.62
+INV-40112,2025-12-14,Zoom Video Communications,Zoom One Business - monthly licenses,OPS,3814.53
+INV-40199,2025-12-14,Miro (RealtimeBoard Inc),Miro Business - monthly seats,ENG,3449.23
+INV-40432,2025-12-14,Amazon Web Services Inc,"AWS consumption - EC2, S3, RDS",DATA,44962.89
+INV-40653,2025-12-14,LinkedIn Ireland Unlimited,LinkedIn Ads campaign spend - monthly,MKT,12015.12
+INV-40778,2025-12-14,Office Depot UK Ltd,Stationery and office consumables,OPS,835.63
+INV-40305,2025-12-15,AgileBits Inc,1Password Business - monthly seats,OPS,2361.46
+INV-40563,2025-12-15,Sierra Digital Ltd,Contractor placement - timesheet week 51,ENG,4981.93
+INV-40858,2025-12-15,British Airways Plc,Business travel - flights,SALES,1089.30
+INV-40068,2025-12-16,GitHub Inc,GitHub Enterprise Cloud - monthly seats,ENG,6173.78
+INV-40490,2025-12-16,MongoDB Inc,MongoDB Atlas cluster consumption - monthly,ENG,3470.80
+INV-40013,2025-12-17,Datadog Inc,APM and log management - monthly,DATA,11260.72
+INV-40247,2025-12-17,Notion Labs Inc,Notion Business - monthly seats,OPS,2796.70
+INV-40056,2025-12-18,Fivetran Inc,Managed data pipeline subscription - monthly,DATA,6172.72
+INV-40328,2025-12-18,Dropbox Inc,Dropbox Business - monthly seats,OPS,1973.46
+INV-40363,2025-12-18,Lucid Software Inc,Lucidchart Enterprise - monthly seats,ENG,1420.21
